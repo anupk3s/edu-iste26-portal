@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:export>
+      <bx:file format="svg" path="White-On-Blue-Chevron.svg" width="32" height="32" normalization="web-static"/>
+    </bx:export>
+  </defs>
+  <rect x="0.583" y="0.573" width="46.953" height="46.776" rx="12" ry="12" style="fill: rgb(0, 120, 212);"/>
+  <path d="M 16.919 34.911 C 16.391 34.448 16.391 33.698 16.919 33.235 L 29.062 22.616 L 16.919 11.995 C 16.391 11.533 16.391 10.782 16.919 10.319 C 17.448 9.857 18.308 9.857 18.837 10.319 L 31.936 21.777 C 32.465 22.24 32.465 22.99 31.936 23.453 L 18.837 34.911 C 18.308 35.374 17.448 35.374 16.919 34.911 Z" style="fill: rgb(240, 240, 240); fill-rule: nonzero;"/>
+</svg>

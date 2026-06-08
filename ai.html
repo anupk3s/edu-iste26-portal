@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reimagine Your School - from the classroom to the staffroom</title>
+    <link rel="icon" type="image/x-icon" href="./icons/favicon.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="portalstyles.css">
+    <style type="text/css">
+        .filter-pillar {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <app-navigation></app-navigation>
+    <div class="container">
+        <app-filter-panel style="display: none;"></app-filter-panel>
+        <div id="demo-pillar-info">
+            <p class="pillar-category-title collapsed">Overall pillar message</p>
+            <div class="pillar-content hidden">
+                Transform learning from the classroom to the staffroom with the power of artificial intelligence. AI
+                helps educators, school leaders, IT professionals, and students achieve more by reducing administrative
+                tasks, personalizing learning, and delivering actionable insights.<br />
+                Enhance instruction with streamlined class preparation, differentiated content, and adaptive tools,
+                supported by insights that empower educators to focus on what matters most: student growth and
+                engagement.<br />
+                Create inclusive digital experiences by using generative AI to simplify operations and provide
+                conversational campus support. Turn insights into action to boost engagement, accelerate research, and
+                enable data-driven decisions, all while safeguarding sensitive information.<br />
+                Innovate with confidence in a secure, flexible, and connected AI-ready foundation across hybrid and
+                multi-cloud environment.
+            </div>
+
+            <p class="pillar-category-title ">Messaging by persona</p>
+            <div class="pillar-content ">
+                <div class="persona-thumbnail">
+                    <img title="Click to expand" alt="Detailed messaging by persona" src="./images/persona-matrix-reimagine-school.png"
+                    onclick="displayImageInModal('./images/persona-matrix-reimagine-school.png', 'Reimagine Your School: messaging by persona');" />
+                </div>                
+            </div>
+
+        </div>
+        <div id="demo-container">Demo card placeholder</div>
+    </div>
+    </div>
+
+    <!-- Modal popup: demo page -->
+    <app-demo-page></app-demo-page>
+
+    <!-- Modal popup: image modal -->
+    <app-image-modal></app-image-modal>
+
+    <!-- Modal popup: video player -->
+    <div id="videoModal" class="modal"></div>
+    <div id="replayContainer"></div>
+    <div id="regaleVideoRef"></div>
+
+    <script src="templates.js"></script>
+    <script src="fportal.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            setPillarFilter("Reimagine Your School");
+            initializePillarToggle();
+        });
+
+        getDemoItemFromUrl();
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Demos</title>
+    <link rel="icon" type="image/x-icon" href="./icons/favicon.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="portalstyles.css">
+</head>
+
+<body>
+    <app-navigation></app-navigation>
+    
+    <div class="container">
+        <app-filter-panel></app-filter-panel>
+        <div class="right">
+            <div id="demo-pillar-info" style="display: none;"></div>
+            <div id="demo-container">Demo card placeholder</div>
+        </div>
+    </div>
+
+    <!-- Modal popup: demo page -->
+     <app-demo-page></app-demo-page>
+
+    <!-- Modal popup: video player -->
+    <div id="videoModal" class="modal"></div>
+    <div id="replayContainer"></div>
+    <div id="regaleVideoRef"></div>
+
+    <script src="templates.js"></script>
+    <script src="fportal.js"></script>
+    <script>
+        getDemoItemFromUrl();
+    </script>
+</body>
+
+</html>

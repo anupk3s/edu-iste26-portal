@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Empower Students</title>
+    <link rel="icon" type="image/x-icon" href="./icons/favicon.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="portalstyles.css">
+    <style type="text/css">
+        .filter-pillar {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <app-navigation></app-navigation>
+    <div class="container">
+        <app-filter-panel style="display: none;"></app-filter-panel>
+        <div id="demo-pillar-info">
+            <p class="pillar-category-title collapsed">Overall pillar message</p>
+            <div class="pillar-content hidden">
+                In today’s rapidly evolving world, academic knowledge alone isn’t enough students need practical skills,
+                digital fluency, and the confidence to lead their own learning journey. By integrating AI-powered tools
+                and platforms, schools can deliver personalized learning experiences, real-time feedback, and
+                opportunities for creativity and collaboration.<br />
+                This empowers students to develop essential skills, understand how AI shapes their future, and become
+                active participants in their own learning journey.
+            </div>
+            <p class="pillar-category-title ">Messaging by persona</p>
+            <div class="pillar-content ">
+                <div class="persona-thumbnail">
+                    <img title="Click to expand" alt="Detailed messaging by persona" src="./images/persona-matrix-empower-students.png"
+                    onclick="displayImageInModal('./images/persona-matrix-empower-students.png', 'Empower Your Students: messaging by persona');" />
+                </div>                
+            </div>
+        </div>
+        <div class="right">
+            <div id="demo-container">Demo card placeholder</div>
+        </div>
+    </div>
+
+    <!-- Modal popup: demo page -->
+    <app-demo-page></app-demo-page>
+
+    <!-- Modal popup: image modal -->
+    <app-image-modal></app-image-modal>
+
+    <!-- Modal popup: video player -->
+    <div id="videoModal" class="modal"></div>
+    <div id="replayContainer"></div>
+    <div id="regaleVideoRef"></div>
+
+    <script src="templates.js"></script>
+    <script src="fportal.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            setPillarFilter("Empower Students");
+            initializePillarToggle();
+        });
+
+        getDemoItemFromUrl();
+    </script>
+</body>
+
+</html>

@@ -149,27 +149,6 @@
     ]
   },
   {
-    "Pillar": "Protect with Confidence",
-    "ID": "307",
-    "DemoTitle": "Windows Defender Antivirus and Intune Security Baselines",
-    "DemoShortTitle": "defender-av-intune-security-baselines",
-    "Products": [
-      "Microsoft Defender",
-      "Microsoft Intune"
-    ],
-    "Leading": "",
-    "Hero": "Yes",
-    "ClickthroughURL": "",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/defender-av-intune-security-baselines/defender-av-intune-security-baselines.html",
-    "VideoReferenceInRegale": "",
-    "Languages": [
-      "English (US)"
-    ],
-    "VideoDuration": "8 min",
-    "Thumbnail": "defender.png",
-    "Summary": "<b>(Video only)</b> Difference between Windows Defender AV and Intune Security Baselines. How to talk about it with customers."
-  },
-  {
     "Pillar": "Empower Students",
     "ID": "200",
     "DemoTitle": "Study and Learn Agent",

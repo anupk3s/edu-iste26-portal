@@ -493,28 +493,29 @@
   {
     "Pillar": "Reimagine Your School",
     "ID": "006",
-    "DemoTitle": "Copilot Studio",
+    "DemoTitle": "Copilot Studio (Digital Me)",
     "DemoShortTitle": "copilot-studio",
     "Products": [
       "Copilot Studio",
       "Microsoft 365 Copilot"
     ],
     "Leading": "",
-    "Hero": "Yes",
-    "ClickthroughURL": "",
+    "Hero": "",
+    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6664/copilot-studio-digital-me#/presenter/0/0",
     "VideoURL": "",
     "VideoReferenceInRegale": "",
     "LiveURL": "https://copilotstudio.microsoft.com/",
     "Languages": [
       "English (US)"
     ],
-    "Duration": "4 min",
-    "Thumbnail": "copilot-studio.png",
-    "Summary": "Copilot Studio helps people create their own agents that help to reduce the manual efforts in day-to-day tasks. ",
+    "Duration": "3 min",
+    "Thumbnail": "Copilot-Studio-2.png",
+    "Summary": "Copilot Studio lets educators describe an agent in plain English: no forms, no code, no configuration screens.\n\n",
     "Personas": [
       "<b>Educator</b>: Copilot Studio enables educators to build custom AI agents tailored to their specific teaching needs, automating routine tasks and enhancing classroom engagement without requiring advanced technical skills.",
       "<b>School Leader</b>: School leaders can leverage Copilot Studio to develop AI agents that streamline administrative processes and improve operational efficiency across their institutions."
-    ]
+    ],
+    "VideoDuration": ""
   },
   {
     "Pillar": "Reimagine Your School",

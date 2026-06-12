@@ -11,7 +11,7 @@
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/Microsoft/play/5694/security-copilot#/presenter/0/0",
+    "ClickthroughURL": "https://regale.cloud/Microsoft/play/6682/security-copilot#/presenter/0/0",
     "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/securit-copilot/securit-copilot.html",
     "VideoReferenceInRegale": "https://www.regale.cloud/Microsoft/play/4920??cid=edu-fp",
     "Languages": [
@@ -23,7 +23,9 @@
     "Personas": [
       "<b>IT Admin</b>: Security Copilot helps IT admins manage security more efficiently by providing a single location to oversee all security solutions. It enables admins to respond to threats quickly and effectively, reducing the time and effort required to manage security across multiple platforms.",
       "<b>School Leader</b>: Protects the organization and devices from malware and cyber-attacks by leveraging AI to identify and mitigate threats in real-time. It helps school leaders ensure the safety and security of their institution's data and systems."
-    ]
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
   },
   {
     "Pillar": "Protect with Confidence",

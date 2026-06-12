@@ -1,5 +1,31 @@
 [
   {
+    "Pillar": "Reimagine Your School",
+    "ID": "001",
+    "DemoTitle": "Copilot Cowork",
+    "DemoShortTitle": "copilot-cowork",
+    "Products": [
+      "Microsoft 365 Copilot"
+    ],
+    "Leading": "",
+    "Hero": "",
+    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6669/copilot-cowork#/presenter/0/0",
+    "VideoURL": "",
+    "VideoReferenceInRegale": "",
+    "LiveURL": "https://copilotstudio.microsoft.com/",
+    "Languages": [
+      "English (US)"
+    ],
+    "Duration": "3 min",
+    "Thumbnail": "copilot-cowork.png",
+    "Summary": "Copilot Cowork can take well-crafted lesson plan and produce multiple differentiated versions without losing user's intent or voice.\n",
+    "Personas": [
+      "<b>Educator</b>: TBD",
+      "<b>School Leader</b>: TBD"
+    ],
+    "VideoDuration": ""
+  },
+  {
     "Pillar": "Protect with Confidence",
     "ID": "301",
     "DemoTitle": "Microsoft Security Copilot",

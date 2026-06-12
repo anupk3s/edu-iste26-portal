@@ -4,9 +4,9 @@ class EduNavigation extends HTMLElement {
     <div class="top-navigation">
         <ol>
             <li data="index.html"><a href="./index.html">Home</a></li>
-            <li data="secure.html"><a href="secure.html">Protect with Confidence</a></li>
-            <li data="ai.html"><a href="ai.html">Reimagine Your School<br/><span>from the classroom to the staffroom</span></a></li>
-            <li data="accelerate.html"><a href="accelerate.html">Empower Your Students</a></li>           
+            <li data="secure.html"><a href="secure.html">Protect what matters</a></li>
+            <li data="ai.html"><a href="ai.html">Reimagine your school<br/><span>from the classroom to the staffroom</span></a></li>
+            <li data="accelerate.html"><a href="accelerate.html">Inspire student learning</a></li>           
             <li data="alldemos.html"><a href="./alldemos.html">All Demos</a></li>
         </ol>
     </div>
@@ -62,13 +62,13 @@ class EduFilter extends HTMLElement {
                 <input type="radio" name="pillar" value="" checked>All
             </label><br>
             <label>
-                <input type="radio" name="pillar" value="Empower Students">Empower Students
+                <input type="radio" name="pillar" value="Inspire student learning">Inspire student learning
             </label><br>
             <label>
-                <input type="radio" name="pillar" value="Reimagine Your School">Reimagine Your School
+                <input type="radio" name="pillar" value="Reimagine your school">Reimagine your school
             </label><br>
             <label>
-                <input type="radio" name="pillar" value="Protect with Confidence">Protect with Confidence
+                <input type="radio" name="pillar" value="Protect what matters">Protect what matters
             </label><br>
         </form>
 

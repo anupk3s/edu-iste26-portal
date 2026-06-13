@@ -206,28 +206,31 @@
   },
   {
     "Pillar": "Empower Students",
-    "ID": "201",
-    "DemoTitle": "Reading Coach",
-    "DemoShortTitle": "reading-coach",
+    "ID": "200",
+    "DemoTitle": "Study Guide (Copilot Notebook)",
+    "DemoShortTitle": "study-guide",
     "Products": [
-      "Microsoft Reading Coach"
+      "Copilot Notebook",
+      "Study Guide"
     ],
-    "Leading": "Yes",
+    "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/Microsoft/play/5584/reading-coach#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/reading-coach-standalone/reading-coach-standalone.html",
-    "VideoReferenceInRegale": "https://regale.cloud/Microsoft/play/4547?cid=edu-fp",
+    "ClickthroughURL": "https://regale.cloud/Microsoft/play/5674/study-guide#/presenter/0/0",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/study-guide/study-guide.html",
+    "VideoReferenceInRegale": "",
     "Languages": [
       "English (US)"
     ],
-    "Duration": "8 min",
-    "Thumbnail": "reading-coach-standalone.jpg",
-    "Summary": "Reading Coach provides personalized, engaging, consistent and moderated reading fluency practice. It uses artificial intelligence to personalize reading content and detect fluency, while ensuring a safe and trusted experience. ",
+    "Duration": "4 min",
+    "Thumbnail": "study-guide.png",
+    "Summary": "Copilot Notebooks in Microsoft 365 Copilot is your AI-powered workspace to stay focused on what matters most. Bring together Copilot chats, Microsoft 365 files, OneNote pages, meeting notes, and links—all in one place.",
     "Personas": [
-      "<b>Learner</b>: Independent, engaging, personalized reading practice and coaching. Learners can create their own AI stories, read library passages, or add their own content, get rewards, streaks, and progress tracking.",
-      "<b>Educator</b>: Situate reading practice for learners, and see progress for individual learners.",
-      "<b>School Leader</b>: No cost reading practice app in multiple languages for use at school and home, get data across the tenant and build custom dashboards."
-    ]
+      "<b>Student</b>: Organized notebook on a topic with interactive learning artifacts.",
+      "<b>Educator</b>: Organized notebook on a topic, with audio overview, Copilot chat, and also study guide, all to that can be shared with students (same copy for all students).",
+      "<b>School Leader</b>: Maximize value for institution with the M365 Copilot license."
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
   },
   {
     "Pillar": "Empower Students",
@@ -678,7 +681,7 @@
   {
     "Pillar": "Empower Students",
     "ID": "200",
-    "DemoTitle": "Copilot Notebook Study Guide",
+    "DemoTitle": "Study Guide (Copilot Notebook)",
     "DemoShortTitle": "study-guide",
     "Products": [
       "Copilot Notebook",
@@ -699,6 +702,8 @@
       "<b>Student</b>: Organized notebook on a topic with interactive learning artifacts.",
       "<b>Educator</b>: Organized notebook on a topic, with audio overview, Copilot chat, and also study guide, all to that can be shared with students (same copy for all students).",
       "<b>School Leader</b>: Maximize value for institution with the M365 Copilot license."
-    ]
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
   }
 ]

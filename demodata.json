@@ -132,28 +132,32 @@
     "LiveURL": ""
   },
   {
-    "Pillar": "Protect with Confidence",
-    "ID": "306",
-    "DemoTitle": "Intune - Settings Catalog",
-    "DemoShortTitle": "intune-settings-catalog",
+    "Pillar": "Reimagine Your School",
+    "ID": "102",
+    "DemoTitle": "PowerPoint Agent and Word Agent in Copilot Chat",
+    "DemoShortTitle": "powerpoint-and-word-agent",
     "Products": [
-      "Microsoft Intune"
+      "Microsoft 365 Copilot",
+      "Microsoft PowerPoint",
+      "Microsoft Word"
     ],
-    "Leading": "",
+    "Leading": "Yes",
     "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/microsoft/play/5595/settings-catalog#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/settings-catalog/settings-catalog.html",
-    "VideoReferenceInRegale": "https://regale.cloud/Microsoft/play/4549?cid=edu-fp",
+    "ClickthroughURL": "https://regale.cloud/microsoft/play/6693/powerpoint-agent-and-word-agent-in-copilot-chat#/presenter/0/0",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/copilot-in-powerpoint/copilot-in-powerpoint.html",
+    "VideoReferenceInRegale": "https://regale.cloud/Microsoft/play/4556?cid=edu-fp",
     "Languages": [
       "English (US)"
     ],
-    "Duration": "6 min",
-    "Thumbnail": "settings-catalog.png",
-    "Summary": "The settings catalog allows you to configure all device settings in one place, making it easy to search for specific settings and streamline policy creation. It is essential for school administrators to deploy security settings to their devices.",
+    "Duration": "3 min",
+    "Thumbnail": "section-0.webp",
+    "Summary": "The Word Agent lets a teacher describe a document and get back a finished Word file — with sections, tables, and formatting — saved straight to OneDrive. The teacher opens it in Word like any other document.  PowerPoint Agent does for slides what Word Agent does for documents. Describe the deck, optionally reference up to five files, and the agent generates a real .pptx with layouts and structure — saved to OneDrive, opens in PowerPoint like any other file. The biggest hook for the EDU audience: Both Agents work for every Microsoft 365 user, with or without a Copilot license. That includes every teacher on a Microsoft 365 A1, A3, or A5 license at no extra cost.  ",
     "Personas": [
-      "<b>IT Admin</b>: Simplified device management across mobile devices, desktop computers, and virtual endpoints.",
-      "<b>School Leader</b>: Centralized management of devices and policies to ensure security and compliance across the institution."
-    ]
+      "<b>Educator</b>: Educators can draft and refine lesson materials in Word, analyze class data in Excel, and create clear, engaging slides in PowerPoint—using natural language prompts directly inside their documents. This reduces manual effort and helps turn ideas and data into classroom ready content faster.",
+      "<b>School Leader</b>: School leaders can quickly create reports, analyze trends, and build presentations for stakeholders using existing files and data. Copilot Chat helps leaders move from raw information to polished, decision ready outputs—without leaving Microsoft 365."
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
   },
   {
     "Pillar": "Empower Students",
@@ -293,31 +297,30 @@
   {
     "Pillar": "Reimagine Your School",
     "ID": "102",
-    "DemoTitle": "Copilot Chat in PowerPoint",
-    "DemoShortTitle": "copilot-in-powerpoint",
+    "DemoTitle": "PowerPoint Agent and Word Agent in Copilot Chat",
+    "DemoShortTitle": "powerpoint-and-word-agent",
     "Products": [
       "Microsoft 365 Copilot",
-      "Microsoft PowerPoint"
+      "Microsoft PowerPoint",
+      "Microsoft Word"
     ],
     "Leading": "Yes",
     "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/microsoft/play/5591/powerpoint-microsoft-365-copilot?cid=edu-fp#/presenter/0/0",
+    "ClickthroughURL": "https://regale.cloud/microsoft/play/6693/powerpoint-agent-and-word-agent-in-copilot-chat#/presenter/0/0",
     "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/copilot-in-powerpoint/copilot-in-powerpoint.html",
     "VideoReferenceInRegale": "https://regale.cloud/Microsoft/play/4556?cid=edu-fp",
     "Languages": [
-      "English (US)",
-      "French (FR)",
-      "Japanese (JP)",
-      "Spanish (ES)",
-      "Portuguese (PT)"
+      "English (US)"
     ],
     "Duration": "3 min",
-    "Thumbnail": "copilot-ppt.png",
-    "Summary": "Copilot Chat in Word, Excel, and PowerPoint brings AI assistance directly into the tools educators and leaders already use every day. It helps users brainstorm, draft, and refine content, making document creation faster and more efficient.",
+    "Thumbnail": "section-0.webp",
+    "Summary": "The Word Agent lets a teacher describe a document and get back a finished Word file — with sections, tables, and formatting — saved straight to OneDrive. The teacher opens it in Word like any other document.  PowerPoint Agent does for slides what Word Agent does for documents. Describe the deck, optionally reference up to five files, and the agent generates a real .pptx with layouts and structure — saved to OneDrive, opens in PowerPoint like any other file. The biggest hook for the EDU audience: Both Agents work for every Microsoft 365 user, with or without a Copilot license. That includes every teacher on a Microsoft 365 A1, A3, or A5 license at no extra cost.  ",
     "Personas": [
       "<b>Educator</b>: Educators can draft and refine lesson materials in Word, analyze class data in Excel, and create clear, engaging slides in PowerPoint—using natural language prompts directly inside their documents. This reduces manual effort and helps turn ideas and data into classroom ready content faster.",
       "<b>School Leader</b>: School leaders can quickly create reports, analyze trends, and build presentations for stakeholders using existing files and data. Copilot Chat helps leaders move from raw information to polished, decision ready outputs—without leaving Microsoft 365."
-    ]
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
   },
   {
     "Pillar": "Reimagine Your School",

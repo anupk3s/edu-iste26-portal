@@ -47,8 +47,8 @@
     "Thumbnail": "copilot-cowork.png",
     "Summary": "Copilot Cowork can take well-crafted lesson plan and produce multiple differentiated versions without losing user's intent or voice.\n",
     "Personas": [
-      "<b>Educator</b>: TBD",
-      "<b>School Leader</b>: TBD"
+      "<b>Educator</b>: Generate differentiated lesson materials instantly to personalize learning without adding to your workload.",
+      "<b>School Leader</b>: Deliver consistent, high‑quality differentiation across classrooms to strengthen instruction without increasing teacher workload."
     ],
     "VideoDuration": ""
   },

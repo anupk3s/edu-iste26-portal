@@ -186,34 +186,6 @@
   },
   {
     "Pillar": "Empower Students",
-    "ID": "200",
-    "DemoTitle": "Study Guide (Copilot Notebook)",
-    "DemoShortTitle": "study-guide",
-    "Products": [
-      "Copilot Notebook",
-      "Study Guide"
-    ],
-    "Leading": "",
-    "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/Microsoft/play/6675/study-guide#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/study-guide/study-guide.html",
-    "VideoReferenceInRegale": "",
-    "Languages": [
-      "English (US)"
-    ],
-    "Duration": "4 min",
-    "Thumbnail": "study-guide.png",
-    "Summary": "Copilot Notebooks in Microsoft 365 Copilot is your AI-powered workspace to stay focused on what matters most. Bring together Copilot chats, Microsoft 365 files, OneNote pages, meeting notes, and links—all in one place.",
-    "Personas": [
-      "<b>Student</b>: Organized notebook on a topic with interactive learning artifacts.",
-      "<b>Educator</b>: Organized notebook on a topic, with audio overview, Copilot chat, and also study guide, all to that can be shared with students (same copy for all students).",
-      "<b>School Leader</b>: Maximize value for institution with the M365 Copilot license."
-    ],
-    "VideoDuration": "",
-    "LiveURL": ""
-  },
-  {
-    "Pillar": "Empower Students",
     "ID": "205",
     "DemoTitle": "Speaker Progress",
     "DemoShortTitle": "speaker-progress",

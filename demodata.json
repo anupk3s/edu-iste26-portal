@@ -273,28 +273,31 @@
   },
   {
     "Pillar": "Reimagine Your School",
-    "ID": "002",
-    "DemoTitle": "Create with PowerPoint",
-    "DemoShortTitle": "create-with-powerpoint",
+    "ID": "004",
+    "DemoTitle": "Teach module - Minecraft Lesson Plans",
+    "DemoShortTitle": "teach-module-minecraft",
     "Products": [
-      "Microsoft PowerPoint",
-      "Microsoft Copilot agent"
+      "Teaching tools",
+      "Minecraft",
+      "Microsoft 365 Copilot"
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/microsoft/play/5701/create-with-powerpoint#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/create-with-powerpoint/create-with-powerpoint.html",
+    "ClickthroughURL": "https://regale.cloud/microsoft/play/6687/teach-module-minecraft-lesson-plans#/presenter/0/0",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/teach-module-minecraft/teach-module-minecraft.html",
     "VideoReferenceInRegale": "",
     "Languages": [
       "English (US)"
     ],
     "Duration": "4 min",
-    "Thumbnail": "create-with-powerpoint.png",
-    "Summary": "Agent Mode in PowerPoint allows users to interact with Microsoft Copilot to create and enhance presentations more efficiently, making targeted changes directly within the document.",
+    "Thumbnail": "teaching-tools.png",
+    "Summary": "Minecraft lessons in the Teach Module allows an educator to gather ideas to teach interactive lessons using Minecraft Education. This is for any educator, even if you have never used Minecraft in the Classroom.",
     "Personas": [
-      "<b>Educator</b>: Agent Mode helps educators move from notes to finished documents without starting over. Whether writing recommendation letters or requests for approval, educators can ask Copilot to organize, refine, and strengthen their existing draft—saving time and increasing clarity, professionalism, and impact.",
-      "<b>School Leader</b>: Agent Mode supports clearer, more reviewable documents from the start. By helping educators align structure, tone, and rationale to administrative expectations, Agent Mode reduces back and forth and makes proposals easier to evaluate and act on."
-    ]
+      "<b>Educator</b>: Teach provides educators with easy access to top AI tasks for preparing class content and curriculum. With no prompting or AI skills needed, you can bring your class details and materials to create ready to use materials for your classes.",
+      "<b>School Leader</b>: Teach is a secure, grounded environment you can provide to educators at no additional cost. Teach is already built to integrate with materials your institution has in OneDrive, SharePoint, and Teams. Educators can get started with Teach with little to no training."
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
   },
   {
     "Pillar": "Reimagine Your School",
@@ -335,7 +338,7 @@
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/microsoft/play/5693/teach-module-minecraft#/presenter/0/0",
+    "ClickthroughURL": "https://regale.cloud/microsoft/play/6687/teach-module-minecraft-lesson-plans#/presenter/0/0",
     "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/teach-module-minecraft/teach-module-minecraft.html",
     "VideoReferenceInRegale": "",
     "Languages": [
@@ -347,7 +350,9 @@
     "Personas": [
       "<b>Educator</b>: Teach provides educators with easy access to top AI tasks for preparing class content and curriculum. With no prompting or AI skills needed, you can bring your class details and materials to create ready to use materials for your classes.",
       "<b>School Leader</b>: Teach is a secure, grounded environment you can provide to educators at no additional cost. Teach is already built to integrate with materials your institution has in OneDrive, SharePoint, and Teams. Educators can get started with Teach with little to no training."
-    ]
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
   },
   {
     "Pillar": "Reimagine Your School",

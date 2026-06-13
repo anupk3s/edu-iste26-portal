@@ -1,5 +1,32 @@
 [
   {
+    "Pillar": "Empower Students",
+    "ID": "",
+    "DemoTitle": "Study and Learn Agent",
+    "DemoShortTitle": "study-and-learn",
+    "Products": [
+      "Microsoft Reading Coach"
+    ],
+    "Leading": "",
+    "Hero": "Yes",
+    "ClickthroughURL": "https://regale.cloud/Microsoft/play/6691/study-and-learn-agent#/presenter/0/0",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/study-guide/study-guide.html",
+    "VideoReferenceInRegale": "",
+    "Languages": [
+      "English (US)"
+    ],
+    "Duration": "4 min",
+    "Thumbnail": "section-1.webp",
+    "Summary": "Copilot Notebooks in Microsoft 365 Copilot is your AI-powered workspace to stay focused on what matters most. Bring together Copilot chats, Microsoft 365 files, OneNote pages, meeting notes, and links—all in one place.",
+    "Personas": [
+      "<b>Students</b>: Understand concepts, practice skills, prepare for tests and exams through a supportive, scaffolded, personalized conversation to arrive at answers, close gaps, learn to identify mistakes, deepen thinking rather than just receive answers. The agent guides learners but does not do the work for them. It fosters thinking and mitigates overreliance on AI.",
+      "<b>Educators</b>: Have peace of mind in knowing that the agent helps learners develop their own understanding and does not do work for the student or just give them answers.",
+      "<b>School Leader</b>: Can count on a safe, responsible AI-powered agent that respects the highest standards of privacy and security. Bring 24x7 tutoring support to students at no additional cost."
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
+  },
+  {
     "Pillar": "Reimagine Your School",
     "ID": "299",
     "DemoTitle": "Teach module - Unit Plans",

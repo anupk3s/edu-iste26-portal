@@ -356,27 +356,28 @@
   },
   {
     "Pillar": "Reimagine Your School",
-    "ID": "005",
-    "DemoTitle": "Researcher",
-    "DemoShortTitle": "researcher",
+    "ID": "006",
+    "DemoTitle": "Learning Zone",
+    "DemoShortTitle": "learning-zone",
     "Products": [
-      "Researcher",
+      "Learning Zone",
       "Microsoft 365 Copilot"
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/microsoft/play/6690/researcher#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/researcher/researcher.html",
+    "ClickthroughURL": "https://regale.cloud/microsoft/play/6688/learning-zone#/presenter/0/0",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/learning-zone/learning-zone.html",
     "VideoReferenceInRegale": "",
     "Languages": [
       "English (US)"
     ],
-    "Duration": "4 min",
-    "Thumbnail": "researcher.png",
-    "Summary": "Researcher in the Microsoft 365 Copilot app helps educators and school leaders explore complex questions and produce structured, source‑cited research reports in minutes.",
+    "Duration": "5 min",
+    "Thumbnail": "learning-zone.png",
+    "Summary": "Learning Zone is a new teaching and learning app in Windows. With Learning Zone, you can create interactive, personalized lessons in a few clicks.",
     "Personas": [
-      "<b>Educator</b>: Researcher helps educators quickly investigate topics like pedagogy, accessibility, or curriculum changes and turn scattered information into clear, citation backed summaries—without advanced search or AI skills.",
-      "<b>School Leader</b>: Researcher supports evidence based decisions by combining external research with internal Microsoft 365 content. Leaders can generate decision ready briefs to share with teams or boards, all within a secure, compliant environment."
+      "<b>Educator</b>: Save time creating active, engaging, and personalized learning activities in a few clicks, and improve teaching through clear, actionable student insights.",
+      "<b>Student</b>: Learn the way that fits your needs, connects to your interests, and stay engaged through interactive experiences with gamified elements.",
+      "<b>School Leader</b>: Free educators to focus on what matters, while embedding research informed, personalized, and data driven practices into everyday classrooms."
     ],
     "VideoDuration": "",
     "LiveURL": ""
@@ -419,7 +420,7 @@
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/microsoft/play/5692/learning-zone#/presenter/0/0",
+    "ClickthroughURL": "https://regale.cloud/microsoft/play/6688/learning-zone#/presenter/0/0",
     "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/learning-zone/learning-zone.html",
     "VideoReferenceInRegale": "",
     "Languages": [
@@ -432,7 +433,9 @@
       "<b>Educator</b>: Save time creating active, engaging, and personalized learning activities in a few clicks, and improve teaching through clear, actionable student insights.",
       "<b>Student</b>: Learn the way that fits your needs, connects to your interests, and stay engaged through interactive experiences with gamified elements.",
       "<b>School Leader</b>: Free educators to focus on what matters, while embedding research informed, personalized, and data driven practices into everyday classrooms."
-    ]
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
   },
   {
     "Pillar": "Reimagine Your School",

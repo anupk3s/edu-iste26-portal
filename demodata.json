@@ -129,28 +129,31 @@
     ]
   },
   {
-    "Pillar": "Protect with Confidence",
-    "ID": "305",
-    "DemoTitle": "Intune - Enterprise App Management",
-    "DemoShortTitle": "intune-eam",
+    "Pillar": "Empower Students",
+    "ID": "200",
+    "DemoTitle": "Learning Activities - Fill in the Blanks",
+    "DemoShortTitle": "learning-activities-fill-in-the-blanks",
     "Products": [
-      "Microsoft Intune"
+      "Learning Activities"
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/microsoft/play/5594/enterprise-app-management?cid=edu-fp#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/enterprise-app-management/enterprise-app-management.html",
-    "VideoReferenceInRegale": "https://regale.cloud/Microsoft/play/4541?cid=edu-fp",
+    "ClickthroughURL": "https://regale.cloud/Microsoft/play/6674/learning-activities-fill-in-the-blanks#/presenter/0/0",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/learning-activities-fill-in-the-blanks/learning-activities-fill-in-the-blanks.html",
+    "VideoReferenceInRegale": "",
     "Languages": [
       "English (US)"
     ],
     "Duration": "4 min",
-    "Thumbnail": "intune-education.png",
-    "Summary": "Microsoft Intune Enterprise App Management allows administrators to efficiently discover and deploy applications from the Enterprise App Catalog. This includes both Microsoft and non-Microsoft apps, simplifying deployment without requiring packages or specific installation details.",
+    "Thumbnail": "learning-activities-fill-in-the-blanks.png",
+    "Summary": "Learning Activities is a Microsoft Education experience designed to help educators and students transform passive content into active learning. With just a few clicks, educators and students can now create engaging practice activities like fill in the blanks directly from existing learning content.",
     "Personas": [
-      "<b>IT Admin</b>: Enterprise Application Management provides IT admins with tools to efficiently discover and deploy applications from the Enterprise App Catalog, simplifying app management.",
-      "<b>School Leader</b>: Enterprise Application Management helps school leaders ensure that necessary applications are available and managed effectively across the school environment."
-    ]
+      "<b>Student</b>: Practice concepts, prepare for tests, and build confidence through interactive activities. Students can create their own activities and take charge of their learning.",
+      "<b>Educator</b>: Quickly turn class content into engaging activities and share with students. Built‑in guardrails ensure learners develop understanding rather than rely on AI.",
+      "<b>School Leader</b>: Offer safe, responsible AI that isn’t open ended prompting and supports learning."
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
   },
   {
     "Pillar": "Protect with Confidence",
@@ -630,7 +633,7 @@
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/Microsoft/play/5696/learning-activities-fill-in-the-blanks#/presenter/0/0",
+    "ClickthroughURL": "https://regale.cloud/Microsoft/play/6674/learning-activities-fill-in-the-blanks#/presenter/0/0",
     "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/learning-activities-fill-in-the-blanks/learning-activities-fill-in-the-blanks.html",
     "VideoReferenceInRegale": "",
     "Languages": [
@@ -638,12 +641,14 @@
     ],
     "Duration": "4 min",
     "Thumbnail": "learning-activities-fill-in-the-blanks.png",
-    "Summary": "Learning Activities is a new Microsoft Education experience designed to help educators and students transform passive content into active learning. With just a few clicks, educators and students can now create engaging practice activities like fill in the blanks directly from existing learning content.",
+    "Summary": "Learning Activities is a Microsoft Education experience designed to help educators and students transform passive content into active learning. With just a few clicks, educators and students can now create engaging practice activities like fill in the blanks directly from existing learning content.",
     "Personas": [
       "<b>Student</b>: Practice concepts, prepare for tests, and build confidence through interactive activities. Students can create their own activities and take charge of their learning.",
       "<b>Educator</b>: Quickly turn class content into engaging activities and share with students. Built‑in guardrails ensure learners develop understanding rather than rely on AI.",
       "<b>School Leader</b>: Offer safe, responsible AI that isn’t open ended prompting and supports learning."
-    ]
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
   },
   {
     "Pillar": "Empower Students",

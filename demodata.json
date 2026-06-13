@@ -110,30 +110,28 @@
     "LiveURL": ""
   },
   {
-    "Pillar": "Reimagine Your School",
-    "ID": "102",
-    "DemoTitle": "PowerPoint Agent and Word Agent in Copilot Chat",
-    "DemoShortTitle": "powerpoint-and-word-agent",
+    "Pillar": "Empower Students",
+    "ID": "200",
+    "DemoTitle": "Learning Activities - Matching",
+    "DemoShortTitle": "learning-activities-matching",
     "Products": [
-      "Microsoft 365 Copilot",
-      "Microsoft PowerPoint",
-      "Microsoft Word"
+      "Learning Activities"
     ],
-    "Leading": "Yes",
+    "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/microsoft/play/6693/powerpoint-agent-and-word-agent-in-copilot-chat#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/copilot-in-powerpoint/copilot-in-powerpoint.html",
-    "VideoReferenceInRegale": "https://regale.cloud/Microsoft/play/4556?cid=edu-fp",
+    "ClickthroughURL": "https://regale.cloud/Microsoft/play/6680/learning-activities-matching#/presenter/0/0",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/learning-activities-matching/learning-activities-matching.html",
+    "VideoReferenceInRegale": "",
     "Languages": [
       "English (US)"
     ],
-    "Duration": "3 min",
-    "Thumbnail": "section-0.webp",
-    "Summary": "The Word Agent lets a teacher describe a document and get back a finished Word file — with sections, tables, and formatting — saved straight to OneDrive. The teacher opens it in Word like any other document.  PowerPoint Agent does for slides what Word Agent does for documents. Describe the deck, optionally reference up to five files, and the agent generates a real .pptx with layouts and structure — saved to OneDrive, opens in PowerPoint like any other file. The biggest hook for the EDU audience: Both Agents work for every Microsoft 365 user, with or without a Copilot license. That includes every teacher on a Microsoft 365 A1, A3, or A5 license at no extra cost.  ",
+    "Duration": "4 min",
+    "Thumbnail": "learning-activities-matching.png",
+    "Summary": "Learning Activities is a new Microsoft Education experience designed to help educators and students transform passive content into active learning. With just a few clicks, educators and students can now create engaging practice activities like matching directly from existing learning content.",
     "Personas": [
-      "<b>Educator</b>: Turn a single short prompt and a notes file into a parent-ready unit overview. No formatting work. Or generate a full lecture deck from a single short prompt and a notes file. Reference up to five files at once for richer content.",
-      "<b>School Leader</b>: Teachers across the building produce consistent, professional documents with no new software to roll out. In addition, teachers spend less prep time on slide formatting and more time on the lesson. Consistent visual quality across classrooms.",
-      "<b>Student<b>: These agents work for students writing reports or creating presentations — same workflow, same OneDrive."
+      "<b>Student</b>: Practice concepts, prepare for tests, and build confidence through interactive activities. Students can create their own activities and take charge of their learning.",
+      "<b>Educator</b>: Quickly turn class content into engaging activities and share with students. Built‑in guardrails ensure learners develop understanding rather than rely on AI.",
+      "<b>School Leader</b>: Offer safe, responsible AI that isn’t open ended prompting and supports learning."
     ],
     "VideoDuration": "",
     "LiveURL": ""
@@ -474,7 +472,7 @@
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/Microsoft/play/5698/learning-activities-matching#/presenter/0/0",
+    "ClickthroughURL": "https://regale.cloud/Microsoft/play/6680/learning-activities-matching#/presenter/0/0",
     "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/learning-activities-matching/learning-activities-matching.html",
     "VideoReferenceInRegale": "",
     "Languages": [
@@ -487,7 +485,9 @@
       "<b>Student</b>: Practice concepts, prepare for tests, and build confidence through interactive activities. Students can create their own activities and take charge of their learning.",
       "<b>Educator</b>: Quickly turn class content into engaging activities and share with students. Built‑in guardrails ensure learners develop understanding rather than rely on AI.",
       "<b>School Leader</b>: Offer safe, responsible AI that isn’t open ended prompting and supports learning."
-    ]
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
   },
   {
     "Pillar": "Empower Students",

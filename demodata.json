@@ -165,32 +165,6 @@
     "LiveURL": ""
   },
   {
-    "Pillar": "Empower Students",
-    "ID": "205",
-    "DemoTitle": "Speaker Progress",
-    "DemoShortTitle": "speaker-progress",
-    "Products": [
-      "Microsoft Teams",
-      "Speaker Progress"
-    ],
-    "Leading": "",
-    "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/microsoft/play/5589/speaker-progress?cid=edu-fp#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/speaker-progress/speaker-progress.html",
-    "VideoReferenceInRegale": "https://regale.cloud/Microsoft/play/4550?cid=edu-fp",
-    "Languages": [
-      "English (US)"
-    ],
-    "Duration": "6 min",
-    "Thumbnail": "speaker-progress.png",
-    "Summary": "Speaker Progress helps students develop public speaking and presentation skills with features like screen recording, PowerPoint sharing, and AI feedback. It also supports multiple languages and provides real-time coaching on aspects like pace, filler words, pitch, and body language.",
-    "Personas": [
-      "<b>Student</b>: Build confidence in public speaking through real-time coaching on pace, pitch, and filler words, plus AI-powered transcript feedback for content and delivery. Practice privately, reduce anxiety, and track progress over time.",
-      "<b>Educator</b>: Create presentation assignments to help students prepare for public speaking. Gain insights into student progress and focus on teaching, not manual grading.",
-      "<b>School Leader</b>: Deliver a safe, responsible AI solution that meets privacy and compliance standards and integrates with Teams and LMS at no extra cost—bringing scalable speaking practice to every student."
-    ]
-  },
-  {
     "Pillar": "Reimagine Your School",
     "ID": "003",
     "DemoTitle": "Teach module - Lesson Plans",

@@ -105,31 +105,6 @@
     ]
   },
   {
-    "Pillar": "Protect with Confidence",
-    "ID": "304",
-    "DemoTitle": "Web Content Filtering",
-    "DemoShortTitle": "web-content-filtering",
-    "Products": [
-      "Microsoft Defender",
-      "Microsoft Intune"
-    ],
-    "Leading": "",
-    "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/microsoft/play/5593/web-content-filtering?cid=edu-fp#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/web-content-filtering/web-content-filtering.html",
-    "VideoReferenceInRegale": "https://regale.cloud/Microsoft/play/4553?cid=edu-fp",
-    "Languages": [
-      "English (US)"
-    ],
-    "Duration": "3 min",
-    "Thumbnail": "web-content-filtering.png",
-    "Summary": "Web content filtering is part of the Web protection capabilities in Microsoft Defender for Endpoint. Web content filtering enables your organization to track, regulate, or block access to websites based on their content categories.",
-    "Personas": [
-      "<b>IT Admin</b>: Web Content Filtering provides IT admins with the ability to regulate and block access to websites based on content categories, ensuring a safer browsing experience for users.",
-      "<b>School Leader</b>: Web Content Filtering helps school leaders maintain a secure online environment by preventing access to inappropriate or harmful websites, protecting students and staff."
-    ]
-  },
-  {
     "Pillar": "Empower Students",
     "ID": "200",
     "DemoTitle": "Learning Activities - Flashcards",

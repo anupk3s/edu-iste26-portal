@@ -301,27 +301,27 @@
   },
   {
     "Pillar": "Reimagine Your School",
-    "ID": "003",
-    "DemoTitle": "Teach module - Lesson Plans",
-    "DemoShortTitle": "teach-module-lesson-plan",
+    "ID": "005",
+    "DemoTitle": "Researcher",
+    "DemoShortTitle": "researcher",
     "Products": [
-      "Teaching tools",
+      "Researcher",
       "Microsoft 365 Copilot"
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/microsoft/play/6689/teach-module-lesson-plans#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/teach-module-lesson-plan/teach-module-lesson-plan.html",
+    "ClickthroughURL": "https://regale.cloud/microsoft/play/6690/researcher#/presenter/0/0",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/researcher/researcher.html",
     "VideoReferenceInRegale": "",
     "Languages": [
       "English (US)"
     ],
     "Duration": "4 min",
-    "Thumbnail": "teaching-tools.png",
-    "Summary": "Teach in Microsoft 365 Copilot App provides an AI-powered workspace that streamlines planning, assessment, and differentiation. It reduces routine work, so educators can return their attention to understanding learners, adapting instruction, and building relationships.",
+    "Thumbnail": "researcher.png",
+    "Summary": "Researcher in the Microsoft 365 Copilot app helps educators and school leaders explore complex questions and produce structured, source‑cited research reports in minutes.",
     "Personas": [
-      "<b>Educator</b>: Teach provides educators with easy access to top AI tasks for preparing class content and curriculum. With no prompting or AI skills needed, you can bring your class details and materials to create ready to use materials for your classes.",
-      "<b>School Leader</b>: Teach is a secure, grounded environment you can provide to educators at no additional cost. Teach is already built to integrate with materials your institution has in OneDrive, SharePoint, and Teams. Educators can get started with Teach with little to no training."
+      "<b>Educator</b>: Researcher helps educators quickly investigate topics like pedagogy, accessibility, or curriculum changes and turn scattered information into clear, citation backed summaries—without advanced search or AI skills.",
+      "<b>School Leader</b>: Researcher supports evidence based decisions by combining external research with internal Microsoft 365 content. Leaders can generate decision ready briefs to share with teams or boards, all within a secure, compliant environment."
     ],
     "VideoDuration": "",
     "LiveURL": ""
@@ -357,7 +357,7 @@
   {
     "Pillar": "Reimagine Your School",
     "ID": "005",
-    "DemoTitle": "Researcher Agent",
+    "DemoTitle": "Researcher",
     "DemoShortTitle": "researcher",
     "Products": [
       "Researcher",
@@ -365,7 +365,7 @@
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/microsoft/play/5640/researcher#/presenter/0/0",
+    "ClickthroughURL": "https://regale.cloud/microsoft/play/6690/researcher#/presenter/0/0",
     "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/researcher/researcher.html",
     "VideoReferenceInRegale": "",
     "Languages": [
@@ -377,7 +377,9 @@
     "Personas": [
       "<b>Educator</b>: Researcher helps educators quickly investigate topics like pedagogy, accessibility, or curriculum changes and turn scattered information into clear, citation backed summaries—without advanced search or AI skills.",
       "<b>School Leader</b>: Researcher supports evidence based decisions by combining external research with internal Microsoft 365 content. Leaders can generate decision ready briefs to share with teams or boards, all within a secure, compliant environment."
-    ]
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
   },
   {
     "Pillar": "Reimagine Your School",

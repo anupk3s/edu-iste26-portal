@@ -106,31 +106,6 @@
   },
   {
     "Pillar": "Protect with Confidence",
-    "ID": "303",
-    "Hero": "Yes",
-    "DemoTitle": "Network Protection",
-    "DemoShortTitle": "network-protection",
-    "Products": [
-      "Microsoft Defender",
-      "Microsoft Intune"
-    ],
-    "Leading": "",
-    "ClickthroughURL": "https://regale.cloud/microsoft/play/5592/network-protection?cid=edu-fp#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/network-protection/network-protection.html",
-    "VideoReferenceInRegale": "https://regale.cloud/Microsoft/play/4545?cid=edu-fp",
-    "Languages": [
-      "English (US)"
-    ],
-    "Duration": "3 min",
-    "Thumbnail": "network.png",
-    "Summary": "Network protection helps protect devices from Internet-based events. It is an attack surface reduction solution. It helps prevent students and staff from accessing dangerous domains through applications.",
-    "Personas": [
-      "<b>IT Admin</b>: Network Protection provides IT admins with tools to reduce the attack surface by blocking access to dangerous domains and preventing potential threats.",
-      "<b>School Leader</b>: Network Protection helps school leaders ensure a safer online environment for students and staff by preventing access to harmful websites and reducing security risks."
-    ]
-  },
-  {
-    "Pillar": "Protect with Confidence",
     "ID": "304",
     "DemoTitle": "Web Content Filtering",
     "DemoShortTitle": "web-content-filtering",

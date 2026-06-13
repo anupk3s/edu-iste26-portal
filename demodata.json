@@ -212,28 +212,27 @@
   },
   {
     "Pillar": "Reimagine Your School",
-    "ID": "102",
-    "DemoTitle": "PowerPoint Agent and Word Agent in Copilot Chat",
-    "DemoShortTitle": "powerpoint-and-word-agent",
+    "ID": "003",
+    "DemoTitle": "Teach module - Lesson Plans",
+    "DemoShortTitle": "teach-module-lesson-plan",
     "Products": [
-      "Microsoft 365 Copilot",
-      "Microsoft PowerPoint",
-      "Microsoft Word"
+      "Teaching tools",
+      "Microsoft 365 Copilot"
     ],
-    "Leading": "Yes",
+    "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/microsoft/play/6693/powerpoint-agent-and-word-agent-in-copilot-chat#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/copilot-in-powerpoint/copilot-in-powerpoint.html",
-    "VideoReferenceInRegale": "https://regale.cloud/Microsoft/play/4556?cid=edu-fp",
+    "ClickthroughURL": "https://regale.cloud/microsoft/play/6689/teach-module-lesson-plans#/presenter/0/0",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/teach-module-lesson-plan/teach-module-lesson-plan.html",
+    "VideoReferenceInRegale": "",
     "Languages": [
       "English (US)"
     ],
-    "Duration": "3 min",
-    "Thumbnail": "section-0.webp",
-    "Summary": "The Word Agent lets a teacher describe a document and get back a finished Word file — with sections, tables, and formatting — saved straight to OneDrive. The teacher opens it in Word like any other document.  PowerPoint Agent does for slides what Word Agent does for documents. Describe the deck, optionally reference up to five files, and the agent generates a real .pptx with layouts and structure — saved to OneDrive, opens in PowerPoint like any other file. The biggest hook for the EDU audience: Both Agents work for every Microsoft 365 user, with or without a Copilot license. That includes every teacher on a Microsoft 365 A1, A3, or A5 license at no extra cost.  ",
+    "Duration": "4 min",
+    "Thumbnail": "teaching-tools.png",
+    "Summary": "Teach in Microsoft 365 Copilot App provides an AI-powered workspace that streamlines planning, assessment, and differentiation. It reduces routine work, so educators can return their attention to understanding learners, adapting instruction, and building relationships.",
     "Personas": [
-      "<b>Educator</b>: Educators can draft and refine lesson materials in Word, analyze class data in Excel, and create clear, engaging slides in PowerPoint—using natural language prompts directly inside their documents. This reduces manual effort and helps turn ideas and data into classroom ready content faster.",
-      "<b>School Leader</b>: School leaders can quickly create reports, analyze trends, and build presentations for stakeholders using existing files and data. Copilot Chat helps leaders move from raw information to polished, decision ready outputs—without leaving Microsoft 365."
+      "<b>Educator</b>: Teach provides educators with easy access to top AI tasks for preparing class content and curriculum. With no prompting or AI skills needed, you can bring your class details and materials to create ready to use materials for your classes.",
+      "<b>School Leader</b>: Teach is a secure, grounded environment you can provide to educators at no additional cost. Teach is already built to integrate with materials your institution has in OneDrive, SharePoint, and Teams. Educators can get started with Teach with little to no training."
     ],
     "VideoDuration": "",
     "LiveURL": ""
@@ -354,7 +353,7 @@
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/microsoft/play/5675/teach-module#/presenter/0/0",
+    "ClickthroughURL": "https://regale.cloud/microsoft/play/6689/teach-module-lesson-plans#/presenter/0/0",
     "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/teach-module-lesson-plan/teach-module-lesson-plan.html",
     "VideoReferenceInRegale": "",
     "Languages": [
@@ -366,7 +365,9 @@
     "Personas": [
       "<b>Educator</b>: Teach provides educators with easy access to top AI tasks for preparing class content and curriculum. With no prompting or AI skills needed, you can bring your class details and materials to create ready to use materials for your classes.",
       "<b>School Leader</b>: Teach is a secure, grounded environment you can provide to educators at no additional cost. Teach is already built to integrate with materials your institution has in OneDrive, SharePoint, and Teams. Educators can get started with Teach with little to no training."
-    ]
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
   },
   {
     "Pillar": "Reimagine Your School",

@@ -212,33 +212,6 @@
   },
   {
     "Pillar": "Reimagine Your School",
-    "ID": "201",
-    "DemoTitle": "Microsoft 365 LTI",
-    "DemoShortTitle": "teams-assignments-lms",
-    "Products": [
-      "Learning Tools Interoperability"
-    ],
-    "Leading": "No",
-    "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/microsoft/play/6692/microsoft-365-lti#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/m365-lti/m365-lti.html",
-    "VideoReferenceInRegale": "https://www.regale.cloud/Microsoft/play/4921?cid=edu-fp",
-    "Languages": [
-      "English (US)"
-    ],
-    "Duration": "3 min",
-    "Thumbnail": "lms.png",
-    "Summary": "The Microsoft Education LTI app makes LMS integrations seamless with a single, powerful tool to introduce new capabilities to streamline and simplify deployment. Educators and students can access Teams Assignments, OneNote Class Notebooks, and other Microsoft 365 tools directly from their LMS.",
-    "Personas": [
-      "<b>Educator</b>: Educators can easily access Microsoft Teams Assignments and OneNote Class Notebooks directly from their LMS, streamlining their workflow and enhancing their teaching experience.",
-      "<b>School Leader</b>: School leaders can oversee and manage the integration of Microsoft 365 tools within the LMS, ensuring that the technology supports the school's educational goals and improves overall efficiency.",
-      "<b>Student</b>: Students can conveniently access their assignments and class materials from Microsoft Teams and OneNote Class Notebooks within their LMS, making it easier to stay organized and engaged with their coursework."
-    ],
-    "VideoDuration": "",
-    "LiveURL": ""
-  },
-  {
-    "Pillar": "Reimagine Your School",
     "ID": "101",
     "DemoTitle": "Copilot Chat in Outlook",
     "DemoShortTitle": "copilot-in-outlook",

@@ -212,35 +212,6 @@
   },
   {
     "Pillar": "Reimagine Your School",
-    "ID": "101",
-    "DemoTitle": "Copilot Chat in Outlook",
-    "DemoShortTitle": "copilot-in-outlook",
-    "Products": [
-      "Microsoft 365 Copilot",
-      "Microsoft Outlook"
-    ],
-    "Leading": "Yes",
-    "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/microsoft/play/5590/outlook-microsoft-365-copilot?cid=edu-fp#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/copilot-in-outlook/copilot-in-outlook.html",
-    "VideoReferenceInRegale": "https://regale.cloud/Microsoft/play/4555?cid=edu-fp",
-    "Languages": [
-      "English (US)",
-      "French (FR)",
-      "Japanese (JP)",
-      "Spanish (ES)",
-      "Portuguese (PT)"
-    ],
-    "Duration": "4 min",
-    "Thumbnail": "copilot-outlook.png",
-    "Summary": "Copilot in Outlook can help educators to keep better track of email threads and streamline their email communications. It can summarize long email threads, draft responses, and help prioritize important messages, all within the Outlook interface.",
-    "Personas": [
-      "<b>Educator</b>: Educators can use Copilot in Outlook to manage their email communications more efficiently. By summarizing long email threads and drafting responses, educators can save time and focus more on teaching and student engagement.",
-      "<b>School Leader</b>: School leaders can leverage Copilot in Outlook to stay on top of important communications. It helps them quickly understand the context of email threads and respond promptly, ensuring effective communication with staff, parents, and stakeholders."
-    ]
-  },
-  {
-    "Pillar": "Reimagine Your School",
     "ID": "102",
     "DemoTitle": "PowerPoint Agent and Word Agent in Copilot Chat",
     "DemoShortTitle": "powerpoint-and-word-agent",

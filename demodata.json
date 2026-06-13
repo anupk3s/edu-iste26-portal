@@ -1,6 +1,33 @@
 [
   {
     "Pillar": "Reimagine Your School",
+    "ID": "299",
+    "DemoTitle": "Teach module - Unit Plans",
+    "DemoShortTitle": "teach-module-unit-plans",
+    "Products": [
+      "Teaching tools",
+      "Microsoft 365 Copilot"
+    ],
+    "Leading": "",
+    "Hero": "Yes",
+    "ClickthroughURL": "https://regale.cloud/microsoft/play/5675/teach-module#/presenter/0/0",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/teach-module-lesson-plan/teach-module-lesson-plan.html",
+    "VideoReferenceInRegale": "",
+    "Languages": [
+      "English (US)"
+    ],
+    "Duration": "4 min",
+    "Thumbnail": "teaching-tools.png",
+    "Summary": "Unit Plan, which is a component of the Teach module in Microsoft 365 Copilot app for Education, helps instructors map out weeks of connected instruction in one place.",
+    "Personas": [
+      "<b>Educator</b>: Teach provides educators with easy access to top AI tasks for preparing class content and curriculum. With no prompting or AI skills needed, you can bring your class details and materials to create ready to use materials for your classes.",
+      "<b>School Leader</b>: Teach is a secure, grounded environment you can provide to educators at no additional cost. Teach is already built to integrate with materials your institution has in OneDrive, SharePoint, and Teams. Educators can get started with Teach with little to no training."
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
+  },
+  {
+    "Pillar": "Reimagine Your School",
     "ID": "001",
     "DemoTitle": "Copilot Cowork",
     "DemoShortTitle": "copilot-cowork",

@@ -166,31 +166,6 @@
   },
   {
     "Pillar": "Empower Students",
-    "ID": "200",
-    "DemoTitle": "Study and Learn Agent",
-    "DemoShortTitle": "study-and-learn-agent",
-    "Products": [
-      "Microsoft Reading Coach"
-    ],
-    "Leading": "Yes",
-    "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/Microsoft/play/5700/study-and-learn-agent#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/study-and-learn-agent/study-and-learn-agent.html",
-    "VideoReferenceInRegale": "",
-    "Languages": [
-      "English (US)"
-    ],
-    "Duration": "4 min",
-    "Thumbnail": "learning-activities.png",
-    "Summary": "Study and Learn agent provides a conversational experience that helps learners ages 13+ understand, practice and master their material.",
-    "Personas": [
-      "<b>Students</b>: derstand concepts, practice skills, prepare for tests and exams through a supportive, scaffolded, personalized conversation to arrive at answers, close gaps, learn to identify mistakes, deepen thinking rather than just receive answers. The agent guides learners but does not do the work for them. It fosters thinking and mitigates overreliance on AI.",
-      "<b>Educators</b>: Have peace of mind in knowing that the agent helps learners develop their own understanding and does not do work for the student or just give them answers.",
-      "<b>School Leader</b>: Can count on a safe, responsible AI-powered agent that respects the highest standards of privacy and security. Bring 24x7 tutoring support to students at no additional cost."
-    ]
-  },
-  {
-    "Pillar": "Empower Students",
     "ID": "205",
     "DemoTitle": "Speaker Progress",
     "DemoShortTitle": "speaker-progress",

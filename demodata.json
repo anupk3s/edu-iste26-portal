@@ -131,22 +131,22 @@
   {
     "Pillar": "Empower Students",
     "ID": "200",
-    "DemoTitle": "Learning Activities - Fill in the Blanks",
-    "DemoShortTitle": "learning-activities-fill-in-the-blanks",
+    "DemoTitle": "Learning Activities - Flashcards",
+    "DemoShortTitle": "learning-activities-flashcards",
     "Products": [
       "Learning Activities"
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/Microsoft/play/6674/learning-activities-fill-in-the-blanks#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/learning-activities-fill-in-the-blanks/learning-activities-fill-in-the-blanks.html",
+    "ClickthroughURL": "https://regale.cloud/Microsoft/play/6676/learning-activities-flashcards#/presenter/0/0",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/learning-activities-flashcards/learning-activities-flashcards.html",
     "VideoReferenceInRegale": "",
     "Languages": [
       "English (US)"
     ],
     "Duration": "4 min",
-    "Thumbnail": "learning-activities-fill-in-the-blanks.png",
-    "Summary": "Learning Activities is a Microsoft Education experience designed to help educators and students transform passive content into active learning. With just a few clicks, educators and students can now create engaging practice activities like fill in the blanks directly from existing learning content.",
+    "Thumbnail": "learning-activities-flashcards.png",
+    "Summary": "Learning Activities is a new Microsoft Education experience designed to help educators and students transform passive content into active learning. With just a few clicks, educators and students can now create engaging practice activities like flashcards directly from existing learning content.",
     "Personas": [
       "<b>Student</b>: Practice concepts, prepare for tests, and build confidence through interactive activities. Students can create their own activities and take charge of their learning.",
       "<b>Educator</b>: Quickly turn class content into engaging activities and share with students. Built‑in guardrails ensure learners develop understanding rather than rely on AI.",
@@ -611,7 +611,7 @@
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://regale.cloud/Microsoft/play/5678/learning-activities-flashcards#/presenter/0/0",
+    "ClickthroughURL": "https://regale.cloud/Microsoft/play/6676/learning-activities-flashcards#/presenter/0/0",
     "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/learning-activities-flashcards/learning-activities-flashcards.html",
     "VideoReferenceInRegale": "",
     "Languages": [
@@ -624,7 +624,9 @@
       "<b>Student</b>: Practice concepts, prepare for tests, and build confidence through interactive activities. Students can create their own activities and take charge of their learning.",
       "<b>Educator</b>: Quickly turn class content into engaging activities and share with students. Built‑in guardrails ensure learners develop understanding rather than rely on AI.",
       "<b>School Leader</b>: Offer safe, responsible AI that isn’t open ended prompting and supports learning."
-    ]
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
   },
   {
     "Pillar": "Empower Students",

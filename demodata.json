@@ -1,6 +1,6 @@
 [
   {
-        "Pillar": "Protect with Confidence",
+        "Pillar": "Protect what matters",
         "ID": "301",
         "DemoTitle": "Microsoft Security Copilot",
         "DemoShortTitle": "security-copilot",
@@ -18,7 +18,7 @@
                     "<b>School Leader</b>: Protects the organization and devices from malware and cyber-attacks by leveraging AI to identify and mitigate threats in real-time. It helps school leaders ensure the safety and security of their institution's data and systems."]
     },
     {
-        "Pillar": "Protect with Confidence",
+        "Pillar": "Protect what matters",
         "ID": "302",
         "DemoTitle": "Windows Defender Antivirus",
         "DemoShortTitle": "defender-endpoint",
@@ -36,7 +36,7 @@
                     "<b>School Leader</b>: Defender Antivirus helps school leaders safeguard their institution's data and systems from cyber threats."]
     },
     {
-        "Pillar": "Protect with Confidence",
+        "Pillar": "Protect what matters",
         "ID": "303",
         "Hero":"Yes",
         "DemoTitle": "Network Protection",
@@ -54,7 +54,7 @@
                     "<b>School Leader</b>: Network Protection helps school leaders ensure a safer online environment for students and staff by preventing access to harmful websites and reducing security risks."]
     },
     {
-        "Pillar": "Protect with Confidence",
+        "Pillar": "Protect what matters",
         "ID": "304",
         "DemoTitle": "Web Content Filtering",
         "DemoShortTitle": "web-content-filtering",
@@ -72,7 +72,7 @@
                     "<b>School Leader</b>: Web Content Filtering helps school leaders maintain a secure online environment by preventing access to inappropriate or harmful websites, protecting students and staff."]
     },
     {
-        "Pillar": "Protect with Confidence",
+        "Pillar": "Protect what matters",
         "ID": "305",
         "DemoTitle": "Intune - Enterprise App Management",
         "DemoShortTitle": "intune-eam",
@@ -90,7 +90,7 @@
                     "<b>School Leader</b>: Enterprise Application Management helps school leaders ensure that necessary applications are available and managed effectively across the school environment."]
     },
     {
-        "Pillar": "Protect with Confidence",
+        "Pillar": "Protect what matters",
         "ID": "306",
         "DemoTitle": "Intune - Settings Catalog",
         "DemoShortTitle": "intune-settings-catalog",

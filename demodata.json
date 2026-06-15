@@ -107,22 +107,6 @@
         "Personas":["<b>IT Admin</b>: Simplified device management across mobile devices, desktop computers, and virtual endpoints.",
                     "<b>School Leader</b>: Centralized management of devices and policies to ensure security and compliance across the institution."]
     },
-      {
-        "Pillar": "Protect with Confidence",
-        "ID": "307",
-        "DemoTitle": "Windows Defender Antivirus and Intune Security Baselines",
-        "DemoShortTitle": "defender-av-intune-security-baselines",
-        "Products": ["Microsoft Defender", "Microsoft Intune"],
-        "Leading": "",
-        "Hero":"Yes",
-        "ClickthroughURL": "",
-        "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/defender-av-intune-security-baselines/defender-av-intune-security-baselines.html",
-		"VideoReferenceInRegale": "",
-        "Languages": ["English (US)"],
-        "VideoDuration": "8 min",
-        "Thumbnail": "defender.png",
-        "Summary": "<b>(Video only)</b> Difference between Windows Defender AV and Intune Security Baselines. How to talk about it with customers."
-    },  
     {
     "Pillar": "Inspire student learning",
     "ID": "",
@@ -667,5 +651,87 @@
     ],
     "VideoDuration": "",
     "LiveURL": ""
+  },
+    {
+    "Pillar": "Reimagine your school",
+    "ID": "102",
+    "DemoTitle": "Copilot Studio (Digital Me)",
+    "DemoShortTitle": "copilot-studio",
+    "Products": [
+      "Microsoft 365 Copilot",
+      "Copilot Studio"
+    ],
+    "Leading": "Yes",
+    "Hero": "Yes",
+    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6664/copilot-studio#/presenter/0/0",
+    "VideoURL": "",
+    "VideoReferenceInRegale": "",
+    "Languages": [
+      "English (US)"
+    ],
+    "Duration": "3 min",
+    "Thumbnail": "copilot-studio.png",
+    "Summary": "Copilot Studio allows you to build a no-code AI assistant for your school in minutes using Microsoft Copilot Studio inside Microsoft 365. Using an agent puts those answers one message away, 24/7.",
+    "Personas": [
+      "<b>Educator</b>: Turn a single short prompt and a notes file into a parent-ready unit overview. No formatting work. Or generate a full lecture deck from a single short prompt and a notes file. Reference up to five files at once for richer content.",
+      "<b>School Leader</b>: Teachers across the building produce consistent, professional documents with no new software to roll out. In addition, teachers spend less prep time on slide formatting and more time on the lesson. Consistent visual quality across classrooms."
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
+  },
+    {
+    "Pillar": "Reimagine your school",
+    "ID": "102",
+    "DemoTitle": "Copilot Cowork",
+    "DemoShortTitle": "copilot-cowork",
+    "Products": [
+      "Microsoft 365 Copilot",
+      "Copilot Cowork"
+    ],
+    "Leading": "Yes",
+    "Hero": "Yes",
+    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6669/copilot-cowork#/presenter/0/0",
+    "VideoURL": "",
+    "VideoReferenceInRegale": "",
+    "Languages": [
+      "English (US)"
+    ],
+    "Duration": "3 min",
+    "Thumbnail": "copilot-cowork.png",
+    "Summary": "Copilot Cowork can take my well-crafted lesson plan and produce multiple differentiated versions without losing the author's intent or voice.",
+    "Personas": [
+      "<b>Educator</b>: Turn a single short prompt and a notes file into a parent-ready unit overview. No formatting work. Or generate a full lecture deck from a single short prompt and a notes file. Reference up to five files at once for richer content.",
+      "<b>School Leader</b>: Teachers across the building produce consistent, professional documents with no new software to roll out. In addition, teachers spend less prep time on slide formatting and more time on the lesson. Consistent visual quality across classrooms."
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
+  },
+      {
+    "Pillar": "Reimagine your school",
+    "ID": "102",
+    "DemoTitle": "Researcher",
+    "DemoShortTitle": "researcher",
+    "Products": [
+      "Microsoft 365 Copilot",
+      "Researcher"
+    ],
+    "Leading": "Yes",
+    "Hero": "Yes",
+    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6690/researcher#/presenter/0/0",
+    "VideoURL": "",
+    "VideoReferenceInRegale": "",
+    "Languages": [
+      "English (US)"
+    ],
+    "Duration": "3 min",
+    "Thumbnail": "researcher.png",
+    "Summary": "Copilot Researcher is an AI agent in Microsoft 365 Copilot designed to perform deep, multi‑step research across the web and your organization’s content, producing structured, source‑cited reports for education and enterprise use.",
+    "Personas": [
+      "<b>Educator</b>: Researcher helps educators quickly investigate topics like pedagogy, accessibility, or curriculum changes and turn scattered information into clear, citation backed summaries—without advanced search or AI skills.",
+      "<b>School Leader</b>: Researcher supports evidence based decisions by combining external research with internal Microsoft 365 content. Leaders can generate decision ready briefs to share with teams or boards, all within a secure, compliant environment."
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
   }
+
 ]

@@ -355,31 +355,6 @@
   },
   {
     "Pillar": "Reimagine your school",
-    "ID": "001",
-    "DemoTitle": "Agent Mode in Word",
-    "DemoShortTitle": "word-agent-mode",
-    "Products": [
-      "Microsoft Word",
-      "Microsoft Copilot agent"
-    ],
-    "Leading": "",
-    "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/5699/agent-mode-in-word#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/word-agent-mode/word-agent-mode.html",
-    "VideoReferenceInRegale": "",
-    "Languages": [
-      "English (US)"
-    ],
-    "Duration": "5 min",
-    "Thumbnail": "agent-mode-word.png",
-    "Summary": "Agent Mode in Word lets Copilot work directly inside a document to turn rough drafts into polished, purpose built writing. Instead of rewriting content line by line, educators can give Copilot a goal—such as adapting for an audience, strengthening justification, or making a document decision ready—and Agent Mode plans and executes the edits in place, using the author’s own content.",
-    "Personas": [
-      "<b>Educator</b>: Agent Mode helps educators move from notes to finished documents without starting over. Whether writing recommendation letters or requests for approval, educators can ask Copilot to organize, refine, and strengthen their existing draft—saving time and increasing clarity, professionalism, and impact.",
-      "<b>School Leader</b>: Agent Mode supports clearer, more reviewable documents from the start. By helping educators align structure, tone, and rationale to administrative expectations, Agent Mode reduces back and forth and makes proposals easier to evaluate and act on."
-    ]
-  },
-  {
-    "Pillar": "Reimagine your school",
     "ID": "004",
     "DemoTitle": "Teach module - Minecraft Lesson Plans",
     "DemoShortTitle": "teach-module-minecraft",
@@ -408,33 +383,6 @@
   },
   {
     "Pillar": "Reimagine your school",
-    "ID": "005",
-    "DemoTitle": "Researcher",
-    "DemoShortTitle": "researcher",
-    "Products": [
-      "Researcher",
-      "Microsoft 365 Copilot"
-    ],
-    "Leading": "",
-    "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6690/researcher#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/researcher/researcher.html",
-    "VideoReferenceInRegale": "",
-    "Languages": [
-      "English (US)"
-    ],
-    "Duration": "4 min",
-    "Thumbnail": "researcher.png",
-    "Summary": "Researcher in the Microsoft 365 Copilot app helps educators and school leaders explore complex questions and produce structured, source‑cited research reports in minutes.",
-    "Personas": [
-      "<b>Educator</b>: Researcher helps educators quickly investigate topics like pedagogy, accessibility, or curriculum changes and turn scattered information into clear, citation backed summaries—without advanced search or AI skills.",
-      "<b>School Leader</b>: Researcher supports evidence based decisions by combining external research with internal Microsoft 365 content. Leaders can generate decision ready briefs to share with teams or boards, all within a secure, compliant environment."
-    ],
-    "VideoDuration": "",
-    "LiveURL": ""
-  },
-  {
-    "Pillar": "Reimagine your school",
     "ID": "004",
     "DemoTitle": "Teach module - Minecraft Lesson Plans",
     "DemoShortTitle": "teach-module-minecraft",
@@ -457,34 +405,6 @@
     "Personas": [
       "<b>Educator</b>: Teach provides educators with easy access to top AI tasks for preparing class content and curriculum. With no prompting or AI skills needed, you can bring your class details and materials to create ready to use materials for your classes.",
       "<b>School Leader</b>: Teach is a secure, grounded environment you can provide to educators at no additional cost. Teach is already built to integrate with materials your institution has in OneDrive, SharePoint, and Teams. Educators can get started with Teach with little to no training."
-    ],
-    "VideoDuration": "",
-    "LiveURL": ""
-  },
-  {
-    "Pillar": "Reimagine your school",
-    "ID": "006",
-    "DemoTitle": "Learning Zone",
-    "DemoShortTitle": "learning-zone",
-    "Products": [
-      "Learning Zone",
-      "Microsoft 365 Copilot"
-    ],
-    "Leading": "",
-    "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6688/learning-zone#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/learning-zone/learning-zone.html",
-    "VideoReferenceInRegale": "",
-    "Languages": [
-      "English (US)"
-    ],
-    "Duration": "5 min",
-    "Thumbnail": "learning-zone.png",
-    "Summary": "Learning Zone is a new teaching and learning app in Windows. With Learning Zone, you can create interactive, personalized lessons in a few clicks.",
-    "Personas": [
-      "<b>Educator</b>: Save time creating active, engaging, and personalized learning activities in a few clicks, and improve teaching through clear, actionable student insights.",
-      "<b>Student</b>: Learn the way that fits your needs, connects to your interests, and stay engaged through interactive experiences with gamified elements.",
-      "<b>School Leader</b>: Free educators to focus on what matters, while embedding research informed, personalized, and data driven practices into everyday classrooms."
     ],
     "VideoDuration": "",
     "LiveURL": ""
@@ -654,7 +574,7 @@
   },
     {
     "Pillar": "Reimagine your school",
-    "ID": "102",
+    "ID": "003",
     "DemoTitle": "Copilot Studio (Digital Me)",
     "DemoShortTitle": "copilot-studio",
     "Products": [
@@ -681,7 +601,7 @@
   },
     {
     "Pillar": "Reimagine your school",
-    "ID": "102",
+    "ID": "002",
     "DemoTitle": "Copilot Cowork",
     "DemoShortTitle": "copilot-cowork",
     "Products": [
@@ -708,7 +628,7 @@
   },
       {
     "Pillar": "Reimagine your school",
-    "ID": "102",
+    "ID": "001",
     "DemoTitle": "Researcher",
     "DemoShortTitle": "researcher",
     "Products": [

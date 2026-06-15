@@ -381,34 +381,7 @@
     "VideoDuration": "",
     "LiveURL": ""
   },
-  {
-    "Pillar": "Reimagine your school",
-    "ID": "004",
-    "DemoTitle": "Teach module - Minecraft Lesson Plans",
-    "DemoShortTitle": "teach-module-minecraft",
-    "Products": [
-      "Teaching tools",
-      "Minecraft",
-      "Microsoft 365 Copilot"
-    ],
-    "Leading": "",
-    "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6687/teach-module-minecraft-lesson-plans#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/teach-module-minecraft/teach-module-minecraft.html",
-    "VideoReferenceInRegale": "",
-    "Languages": [
-      "English (US)"
-    ],
-    "Duration": "4 min",
-    "Thumbnail": "teaching-tools.png",
-    "Summary": "Minecraft lessons in the Teach Module allows an educator to gather ideas to teach interactive lessons using Minecraft Education. This is for any educator, even if you have never used Minecraft in the Classroom.",
-    "Personas": [
-      "<b>Educator</b>: Teach provides educators with easy access to top AI tasks for preparing class content and curriculum. With no prompting or AI skills needed, you can bring your class details and materials to create ready to use materials for your classes.",
-      "<b>School Leader</b>: Teach is a secure, grounded environment you can provide to educators at no additional cost. Teach is already built to integrate with materials your institution has in OneDrive, SharePoint, and Teams. Educators can get started with Teach with little to no training."
-    ],
-    "VideoDuration": "",
-    "LiveURL": ""
-  },
+
   {
     "Pillar": "Reimagine your school",
     "ID": "006",
@@ -466,33 +439,6 @@
   {
     "Pillar": "Inspire student learning",
     "ID": "200",
-    "DemoTitle": "Learning Activities - Flashcards",
-    "DemoShortTitle": "learning-activities-flashcards",
-    "Products": [
-      "Learning Activities"
-    ],
-    "Leading": "",
-    "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6676/learning-activities-flashcards#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/learning-activities-flashcards/learning-activities-flashcards.html",
-    "VideoReferenceInRegale": "",
-    "Languages": [
-      "English (US)"
-    ],
-    "Duration": "4 min",
-    "Thumbnail": "learning-activities-flashcards.png",
-    "Summary": "Learning Activities is a new Microsoft Education experience designed to help educators and students transform passive content into active learning. With just a few clicks, educators and students can now create engaging practice activities like flashcards directly from existing learning content.",
-    "Personas": [
-      "<b>Student</b>: Practice concepts, prepare for tests, and build confidence through interactive activities. Students can create their own activities and take charge of their learning.",
-      "<b>Educator</b>: Quickly turn class content into engaging activities and share with students. Built‑in guardrails ensure learners develop understanding rather than rely on AI.",
-      "<b>School Leader</b>: Offer safe, responsible AI that isn’t open ended prompting and supports learning."
-    ],
-    "VideoDuration": "",
-    "LiveURL": ""
-  },
-  {
-    "Pillar": "Inspire student learning",
-    "ID": "200",
     "DemoTitle": "Learning Activities - Fill in the Blanks",
     "DemoShortTitle": "learning-activities-fill-in-the-blanks",
     "Products": [
@@ -517,33 +463,7 @@
     "VideoDuration": "",
     "LiveURL": ""
   },
-  {
-    "Pillar": "Inspire student learning",
-    "ID": "200",
-    "DemoTitle": "Learning Activities - Matching",
-    "DemoShortTitle": "learning-activities-matching",
-    "Products": [
-      "Learning Activities"
-    ],
-    "Leading": "",
-    "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6680/learning-activities-matching#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/learning-activities-matching/learning-activities-matching.html",
-    "VideoReferenceInRegale": "",
-    "Languages": [
-      "English (US)"
-    ],
-    "Duration": "4 min",
-    "Thumbnail": "learning-activities-matching.png",
-    "Summary": "Learning Activities is a new Microsoft Education experience designed to help educators and students transform passive content into active learning. With just a few clicks, educators and students can now create engaging practice activities like matching directly from existing learning content.",
-    "Personas": [
-      "<b>Student</b>: Practice concepts, prepare for tests, and build confidence through interactive activities. Students can create their own activities and take charge of their learning.",
-      "<b>Educator</b>: Quickly turn class content into engaging activities and share with students. Built‑in guardrails ensure learners develop understanding rather than rely on AI.",
-      "<b>School Leader</b>: Offer safe, responsible AI that isn’t open ended prompting and supports learning."
-    ],
-    "VideoDuration": "",
-    "LiveURL": ""
-  },
+
   {
     "Pillar": "Inspire student learning",
     "ID": "200",

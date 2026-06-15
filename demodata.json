@@ -109,7 +109,7 @@
     },
     {
     "Pillar": "Inspire student learning",
-    "ID": "",
+    "ID": "309",
     "DemoTitle": "Study and Learn Agent",
     "DemoShortTitle": "study-and-learn",
     "Products": [
@@ -134,6 +134,32 @@
     "VideoDuration": "",
     "LiveURL": ""
   },
+    {
+    "Pillar": "Inspire student learning",
+    "ID": "308",
+    "DemoTitle": "Reading Coach",
+    "DemoShortTitle": "reading-coach",
+    "Products": [
+      "Microsoft Reading Coach"
+    ],
+    "Leading": "",
+    "Hero": "Yes",
+    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6678/reading-coach#/presenter/0/0",
+    "VideoURL": "",
+    "VideoReferenceInRegale": "",
+    "Languages": [
+      "English (US)"
+    ],
+    "Duration": "4 min",
+    "Thumbnail": "reading-coach.png",
+    "Summary": "Reading Coach Standalone is an app from Microsoft that can help learners practice and improve their reading fluency.",
+    "Personas": [
+      "<b>Students</b>: Understand concepts, practice skills, prepare for tests and exams through a supportive, scaffolded, personalized conversation to arrive at answers, close gaps, learn to identify mistakes, deepen thinking rather than just receive answers. The agent guides learners but does not do the work for them. It fosters thinking and mitigates overreliance on AI.",
+      "<b>Educators</b>: Have peace of mind in knowing that the agent helps learners develop their own understanding and does not do work for the student or just give them answers."
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
+  },  
   {
     "Pillar": "Reimagine your school",
     "ID": "299",

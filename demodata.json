@@ -326,61 +326,6 @@
   },
   {
     "Pillar": "Reimagine your school",
-    "ID": "104",
-    "DemoTitle": "Copilot Chat in Word",
-    "DemoShortTitle": "copilot-in-word",
-    "Products": [
-      "Microsoft 365 Copilot",
-      "Microsoft Word"
-    ],
-    "Leading": "Yes",
-    "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/5596/word-microsoft-365-copilot?cid=edu-fp#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/copilot-in-word/copilot-in-word.html",
-    "VideoReferenceInRegale": "https://demos.microsoft.com/Microsoft/play/4557?cid=edu-fp",
-    "Languages": [
-      "English (US)",
-      "French (FR)",
-      "Japanese (JP)",
-      "Spanish (ES)",
-      "Portuguese (PT)"
-    ],
-    "Duration": "4 min",
-    "Thumbnail": "copilot-word.png",
-    "Summary": "Copilot Chat in Word, Excel, and PowerPoint brings AI assistance directly into the tools educators and leaders already use every day. It helps users brainstorm, draft, and refine content, making document creation faster and more efficient.",
-    "Personas": [
-      "<b>Educator</b>: Educators can draft and refine lesson materials in Word, analyze class data in Excel, and create clear, engaging slides in PowerPoint—using natural language prompts directly inside their documents. This reduces manual effort and helps turn ideas and data into classroom ready content faster.",
-      "<b>School Leader</b>: School leaders can quickly create reports, analyze trends, and build presentations for stakeholders using existing files and data. Copilot Chat helps leaders move from raw information to polished, decision ready outputs—without leaving Microsoft 365."
-    ]
-  },
-  {
-    "Pillar": "Inspire student learning",
-    "ID": "223",
-    "DemoTitle": "Search Progress",
-    "DemoShortTitle": "search-progress",
-    "Products": [
-      "Search Progress",
-      "Microsoft Teams"
-    ],
-    "Leading": "",
-    "Hero": "",
-    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/5183/search-progress?cid=edu-fp#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/search-progress/search-progress.html",
-    "VideoReferenceInRegale": "",
-    "Languages": [
-      "English (US)"
-    ],
-    "Duration": "5 min",
-    "Thumbnail": "search-progress.jpg",
-    "Summary": "Search Progress helps the development of critical thinking and healthy online research habits within the structure of a school assignment.",
-    "Personas": [
-      "<b>Student</b>: Search Progress provides students with a structured environment to practice online research skills. It encourages critical thinking by guiding students through the process of finding, evaluating, and citing sources effectively.",
-      "<b>Educator</b>: Educators can create assignments that incorporate Search Progress, allowing them to monitor student research habits and provide targeted feedback. This tool helps educators teach essential digital literacy skills in a controlled setting.",
-      "<b>School Leader</b>: School leaders can implement Search Progress across their institution to promote consistent research practices. It supports the development of students' information literacy, preparing them for academic success and responsible digital citizenship."
-    ]
-  },
-  {
-    "Pillar": "Reimagine your school",
     "ID": "004",
     "DemoTitle": "Teach module - Minecraft Lesson Plans",
     "DemoShortTitle": "teach-module-minecraft",
@@ -435,32 +380,6 @@
     ],
     "VideoDuration": "",
     "LiveURL": ""
-  },
-  {
-    "Pillar": "Reimagine your school",
-    "ID": "006",
-    "DemoTitle": "Microsoft Fabric",
-    "DemoShortTitle": "fabric-insights",
-    "Products": [
-      "Microsoft Fabric",
-      "Azure OpenAI Service"
-    ],
-    "Leading": "",
-    "Hero": "Yes",
-    "ClickthroughURL": "",
-    "VideoURL": "",
-    "VideoReferenceInRegale": "",
-    "LiveURL": "https://app-education-dream-demo-2-prod.azurewebsites.net/#/landing-page",
-    "Languages": [
-      "English (US)"
-    ],
-    "Duration": "5 min",
-    "Thumbnail": "fabric.png",
-    "Summary": "Microsoft Fabric provides a comprehensive data analytics and AI platform that empowers educators and school leaders to gain actionable insights and make data-driven decisions.",
-    "Personas": [
-      "<b>Educator</b>: Utilize AI and predictive modeling to identify key risk factors in student attrition and effectively track interventions by implementing targeted programs that improve graduation rates for at-risk populations.",
-      "<b>School Leader</b>: Identify, analyze, and address critical issues with actionable insights so they can make better-informed decisions, implement effective interventions, and monitor trends in real time."
-    ]
   },
   {
     "Pillar": "Inspire student learning",

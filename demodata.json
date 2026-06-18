@@ -103,33 +103,6 @@
   },
   {
     "Pillar": "Reimagine your school",
-    "ID": "000",
-    "DemoTitle": "Copilot Cowork",
-    "DemoShortTitle": "copilot-cowork",
-    "Products": [
-      "Microsoft 365 Copilot",
-      "Copilot Cowork"
-    ],
-    "Leading": "Yes",
-    "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6669/copilot-cowork#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/copilot-cowork/copilot-cowork.html",
-    "VideoReferenceInRegale": "",
-    "Languages": [
-      "English (US)"
-    ],
-    "Duration": "3 min",
-    "Thumbnail": "copilot-cowork.png",
-    "Summary": "Copilot Cowork can take my well-crafted lesson plan and produce multiple differentiated versions without losing the author's intent or voice.",
-    "Personas": [
-      "<b>Educator</b>: Turn a single short prompt and a notes file into a parent-ready unit overview. No formatting work. Or generate a full lecture deck from a single short prompt and a notes file. Reference up to five files at once for richer content.",
-      "<b>School Leader</b>: Teachers across the building produce consistent, professional documents with no new software to roll out. In addition, teachers spend less prep time on slide formatting and more time on the lesson. Consistent visual quality across classrooms."
-    ],
-    "VideoDuration": "",
-    "LiveURL": ""
-  },
-  {
-    "Pillar": "Reimagine your school",
     "ID": "299",
     "DemoTitle": "Teach module - Unit Plans",
     "DemoShortTitle": "teach-module-unit-plans",

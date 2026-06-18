@@ -1,113 +1,154 @@
 [
   {
-        "Pillar": "Protect what matters",
-        "ID": "301",
-        "DemoTitle": "Microsoft Security Copilot",
-        "DemoShortTitle": "security-copilot",
-        "Products": ["Security Copilot", "Microsoft Purview", "Microsoft Intune"],
-        "Leading": "",
-        "Hero":"Yes",
-        "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6682/security-copilot#/presenter/0/0",
-        "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/securit-copilot/securit-copilot.html",
-		"VideoReferenceInRegale": "https://demos.microsoft.com/Microsoft/play/4920??cid=edu-iste26",
-        "Languages": ["English (US)"],
-        "Duration": "5 min",
-        "Thumbnail": "security-copilot.jpg",
-        "Summary": "Security Copilot is the latest installment for AI solutions in Microsoft 365, with the intent to help IT admins deploy and manage security at machine speed and scale. Security Copilot integrates with all of the security solutions shown, making security management efficient and easy, providing a single location to defend your organization vs navigating across multiple disparate portals. Security Copilot has a stand-alone experience, as well as embedded experiences within each of the various security related applications.",
-        "Personas":["<b>IT Admin</b>: Security Copilot helps IT admins manage security more efficiently by providing a single location to oversee all security solutions. It enables admins to respond to threats quickly and effectively, reducing the time and effort required to manage security across multiple platforms.",
-                    "<b>School Leader</b>: Protects the organization and devices from malware and cyber-attacks by leveraging AI to identify and mitigate threats in real-time. It helps school leaders ensure the safety and security of their institution's data and systems."]
-    },
-    {
-        "Pillar": "Protect what matters",
-        "ID": "302",
-        "DemoTitle": "Windows Defender Antivirus",
-        "DemoShortTitle": "defender-endpoint",
-        "Products": ["Microsoft Defender", "Microsoft Intune"],
-        "Leading": "Yes",
-        "Hero":"Yes",
-        "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6681/windows-defender-antivirus?cid=edu-iste26#/presenter/0/0",
-        "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/windows-defender-antivirus/windows-defender-antivirus.html",
-		"VideoReferenceInRegale": "https://demos.microsoft.com/Microsoft/play/4554?cid=edu-iste26",
-        "Languages": ["English (US)"],
-        "Duration": "3 min",
-        "Thumbnail": "defender.png",
-        "Summary": "Defender antivirus is a service that runs on your Windows devices and protects you from malware, spyware, and ransomware.",
-        "Personas":["<b>IT Admin</b>: Defender Antivirus provides IT admins with robust protection against malware, spyware, and ransomware.",
-                    "<b>School Leader</b>: Defender Antivirus helps school leaders safeguard their institution's data and systems from cyber threats."]
-    },
-    {
-        "Pillar": "Protect what matters",
-        "ID": "303",
-        "Hero":"Yes",
-        "DemoTitle": "Network Protection",
-        "DemoShortTitle": "network-protection",
-        "Products": ["Microsoft Defender", "Microsoft Intune"],
-        "Leading": "",
-        "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6683/network-protection?cid=edu-iste26#/presenter/0/0",
-        "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/network-protection/network-protection.html",
-		"VideoReferenceInRegale": "https://demos.microsoft.com/Microsoft/play/4545?cid=edu-iste26",
-        "Languages": ["English (US)"],
-        "Duration": "3 min",
-        "Thumbnail": "network.png",
-        "Summary": "Network protection helps protect devices from Internet-based events. It is an attack surface reduction solution. It helps prevent students and staff from accessing dangerous domains through applications.",
-        "Personas":["<b>IT Admin</b>: Network Protection provides IT admins with tools to reduce the attack surface by blocking access to dangerous domains and preventing potential threats.",
-                    "<b>School Leader</b>: Network Protection helps school leaders ensure a safer online environment for students and staff by preventing access to harmful websites and reducing security risks."]
-    },
-    {
-        "Pillar": "Protect what matters",
-        "ID": "304",
-        "DemoTitle": "Web Content Filtering",
-        "DemoShortTitle": "web-content-filtering",
-        "Products": ["Microsoft Defender", "Microsoft Intune"],
-        "Leading": "",
-        "Hero":"Yes",
-        "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6684/web-content-filtering?cid=edu-iste26#/presenter/0/0",
-        "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/web-content-filtering/web-content-filtering.html",
-		"VideoReferenceInRegale": "https://demos.microsoft.com/Microsoft/play/4553?cid=edu-iste26",
-        "Languages": ["English (US)"],
-        "Duration": "3 min",
-        "Thumbnail": "web-content-filtering.png",
-        "Summary": "Web content filtering is part of the Web protection capabilities in Microsoft Defender for Endpoint. Web content filtering enables your organization to track, regulate, or block access to websites based on their content categories.",
-        "Personas":["<b>IT Admin</b>: Web Content Filtering provides IT admins with the ability to regulate and block access to websites based on content categories, ensuring a safer browsing experience for users.",
-                    "<b>School Leader</b>: Web Content Filtering helps school leaders maintain a secure online environment by preventing access to inappropriate or harmful websites, protecting students and staff."]
-    },
-    {
-        "Pillar": "Protect what matters",
-        "ID": "305",
-        "DemoTitle": "Intune - Enterprise App Management",
-        "DemoShortTitle": "intune-eam",
-        "Products": ["Microsoft Intune"],
-        "Leading": "",
-        "Hero":"Yes",
-        "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6685/enterprise-app-management?cid=edu-iste26#/presenter/0/0",
-        "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/enterprise-app-management/enterprise-app-management.html",
-		"VideoReferenceInRegale": "https://demos.microsoft.com/Microsoft/play/4541?cid=edu-iste26",
-        "Languages": ["English (US)"],
-        "Duration": "4 min",
-        "Thumbnail": "intune-education.png",
-        "Summary": "Microsoft Intune Enterprise App Management allows administrators to efficiently discover and deploy applications from the Enterprise App Catalog. This includes both Microsoft and non-Microsoft apps, simplifying deployment without requiring packages or specific installation details.",
-        "Personas":["<b>IT Admin</b>: Enterprise Application Management provides IT admins with tools to efficiently discover and deploy applications from the Enterprise App Catalog, simplifying app management.",
-                    "<b>School Leader</b>: Enterprise Application Management helps school leaders ensure that necessary applications are available and managed effectively across the school environment."]
-    },
-    {
-        "Pillar": "Protect what matters",
-        "ID": "306",
-        "DemoTitle": "Intune - Settings Catalog",
-        "DemoShortTitle": "intune-settings-catalog",
-        "Products": ["Microsoft Intune"],
-        "Leading": "",
-        "Hero":"Yes",
-        "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6686/settings-catalog#/presenter/0/0",
-        "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/settings-catalog/settings-catalog.html",
-		"VideoReferenceInRegale": "https://demos.microsoft.com/Microsoft/play/4549?cid=edu-iste26",
-        "Languages": ["English (US)"],
-        "Duration": "6 min",
-        "Thumbnail": "settings-catalog.png",
-        "Summary": "The settings catalog allows you to configure all device settings in one place, making it easy to search for specific settings and streamline policy creation. It is essential for school administrators to deploy security settings to their devices.",
-        "Personas":["<b>IT Admin</b>: Simplified device management across mobile devices, desktop computers, and virtual endpoints.",
-                    "<b>School Leader</b>: Centralized management of devices and policies to ensure security and compliance across the institution."]
-    },
-    {
+    "Pillar": "Protect what matters",
+    "ID": "301",
+    "DemoTitle": "Microsoft Security Copilot",
+    "DemoShortTitle": "security-copilot",
+    "Products": [
+      "Security Copilot",
+      "Microsoft Purview",
+      "Microsoft Intune"
+    ],
+    "Leading": "",
+    "Hero": "Yes",
+    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6682/security-copilot#/presenter/0/0",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/securit-copilot/securit-copilot.html",
+    "VideoReferenceInRegale": "https://demos.microsoft.com/Microsoft/play/4920??cid=edu-iste26",
+    "Languages": [
+      "English (US)"
+    ],
+    "Duration": "5 min",
+    "Thumbnail": "security-copilot.jpg",
+    "Summary": "Security Copilot is the latest installment for AI solutions in Microsoft 365, with the intent to help IT admins deploy and manage security at machine speed and scale. Security Copilot integrates with all of the security solutions shown, making security management efficient and easy, providing a single location to defend your organization vs navigating across multiple disparate portals. Security Copilot has a stand-alone experience, as well as embedded experiences within each of the various security related applications.",
+    "Personas": [
+      "<b>IT Admin</b>: Security Copilot helps IT admins manage security more efficiently by providing a single location to oversee all security solutions. It enables admins to respond to threats quickly and effectively, reducing the time and effort required to manage security across multiple platforms.",
+      "<b>School Leader</b>: Protects the organization and devices from malware and cyber-attacks by leveraging AI to identify and mitigate threats in real-time. It helps school leaders ensure the safety and security of their institution's data and systems."
+    ]
+  },
+  {
+    "Pillar": "Protect what matters",
+    "ID": "302",
+    "DemoTitle": "Windows Defender Antivirus",
+    "DemoShortTitle": "defender-endpoint",
+    "Products": [
+      "Microsoft Defender",
+      "Microsoft Intune"
+    ],
+    "Leading": "Yes",
+    "Hero": "Yes",
+    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6681/windows-defender-antivirus?cid=edu-iste26#/presenter/0/0",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/windows-defender-antivirus/windows-defender-antivirus.html",
+    "VideoReferenceInRegale": "https://demos.microsoft.com/Microsoft/play/4554?cid=edu-iste26",
+    "Languages": [
+      "English (US)"
+    ],
+    "Duration": "3 min",
+    "Thumbnail": "defender.png",
+    "Summary": "Defender antivirus is a service that runs on your Windows devices and protects you from malware, spyware, and ransomware.",
+    "Personas": [
+      "<b>IT Admin</b>: Defender Antivirus provides IT admins with robust protection against malware, spyware, and ransomware.",
+      "<b>School Leader</b>: Defender Antivirus helps school leaders safeguard their institution's data and systems from cyber threats."
+    ]
+  },
+  {
+    "Pillar": "Protect what matters",
+    "ID": "303",
+    "Hero": "Yes",
+    "DemoTitle": "Network Protection",
+    "DemoShortTitle": "network-protection",
+    "Products": [
+      "Microsoft Defender",
+      "Microsoft Intune"
+    ],
+    "Leading": "",
+    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6683/network-protection?cid=edu-iste26#/presenter/0/0",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/network-protection/network-protection.html",
+    "VideoReferenceInRegale": "https://demos.microsoft.com/Microsoft/play/4545?cid=edu-iste26",
+    "Languages": [
+      "English (US)"
+    ],
+    "Duration": "3 min",
+    "Thumbnail": "network.png",
+    "Summary": "Network protection helps protect devices from Internet-based events. It is an attack surface reduction solution. It helps prevent students and staff from accessing dangerous domains through applications.",
+    "Personas": [
+      "<b>IT Admin</b>: Network Protection provides IT admins with tools to reduce the attack surface by blocking access to dangerous domains and preventing potential threats.",
+      "<b>School Leader</b>: Network Protection helps school leaders ensure a safer online environment for students and staff by preventing access to harmful websites and reducing security risks."
+    ]
+  },
+  {
+    "Pillar": "Protect what matters",
+    "ID": "304",
+    "DemoTitle": "Web Content Filtering",
+    "DemoShortTitle": "web-content-filtering",
+    "Products": [
+      "Microsoft Defender",
+      "Microsoft Intune"
+    ],
+    "Leading": "",
+    "Hero": "Yes",
+    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6684/web-content-filtering?cid=edu-iste26#/presenter/0/0",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/web-content-filtering/web-content-filtering.html",
+    "VideoReferenceInRegale": "https://demos.microsoft.com/Microsoft/play/4553?cid=edu-iste26",
+    "Languages": [
+      "English (US)"
+    ],
+    "Duration": "3 min",
+    "Thumbnail": "web-content-filtering.png",
+    "Summary": "Web content filtering is part of the Web protection capabilities in Microsoft Defender for Endpoint. Web content filtering enables your organization to track, regulate, or block access to websites based on their content categories.",
+    "Personas": [
+      "<b>IT Admin</b>: Web Content Filtering provides IT admins with the ability to regulate and block access to websites based on content categories, ensuring a safer browsing experience for users.",
+      "<b>School Leader</b>: Web Content Filtering helps school leaders maintain a secure online environment by preventing access to inappropriate or harmful websites, protecting students and staff."
+    ]
+  },
+  {
+    "Pillar": "Protect what matters",
+    "ID": "305",
+    "DemoTitle": "Intune - Enterprise App Management",
+    "DemoShortTitle": "intune-eam",
+    "Products": [
+      "Microsoft Intune"
+    ],
+    "Leading": "",
+    "Hero": "Yes",
+    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6685/enterprise-app-management?cid=edu-iste26#/presenter/0/0",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/enterprise-app-management/enterprise-app-management.html",
+    "VideoReferenceInRegale": "https://demos.microsoft.com/Microsoft/play/4541?cid=edu-iste26",
+    "Languages": [
+      "English (US)"
+    ],
+    "Duration": "4 min",
+    "Thumbnail": "intune-education.png",
+    "Summary": "Microsoft Intune Enterprise App Management allows administrators to efficiently discover and deploy applications from the Enterprise App Catalog. This includes both Microsoft and non-Microsoft apps, simplifying deployment without requiring packages or specific installation details.",
+    "Personas": [
+      "<b>IT Admin</b>: Enterprise Application Management provides IT admins with tools to efficiently discover and deploy applications from the Enterprise App Catalog, simplifying app management.",
+      "<b>School Leader</b>: Enterprise Application Management helps school leaders ensure that necessary applications are available and managed effectively across the school environment."
+    ]
+  },
+  {
+    "Pillar": "Protect what matters",
+    "ID": "306",
+    "DemoTitle": "Intune - Settings Catalog",
+    "DemoShortTitle": "intune-settings-catalog",
+    "Products": [
+      "Microsoft Intune"
+    ],
+    "Leading": "",
+    "Hero": "Yes",
+    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6686/settings-catalog#/presenter/0/0",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/settings-catalog/settings-catalog.html",
+    "VideoReferenceInRegale": "https://demos.microsoft.com/Microsoft/play/4549?cid=edu-iste26",
+    "Languages": [
+      "English (US)"
+    ],
+    "Duration": "6 min",
+    "Thumbnail": "settings-catalog.png",
+    "Summary": "The settings catalog allows you to configure all device settings in one place, making it easy to search for specific settings and streamline policy creation. It is essential for school administrators to deploy security settings to their devices.",
+    "Personas": [
+      "<b>IT Admin</b>: Simplified device management across mobile devices, desktop computers, and virtual endpoints.",
+      "<b>School Leader</b>: Centralized management of devices and policies to ensure security and compliance across the institution."
+    ]
+  },
+  {
     "Pillar": "Inspire student learning",
     "ID": "309",
     "DemoTitle": "Study and Learn Agent",
@@ -134,32 +175,33 @@
     "VideoDuration": "",
     "LiveURL": ""
   },
-    {
-    "Pillar": "Inspire student learning",
-    "ID": "308",
-    "DemoTitle": "Reading Coach",
-    "DemoShortTitle": "reading-coach",
+  {
+    "Pillar": "Empower Students",
+    "ID": "002",
+    "DemoTitle": "Copilot Cowork",
+    "DemoShortTitle": "copilot-cowork",
     "Products": [
-      "Microsoft Reading Coach"
+      "Microsoft 365 Copilot",
+      "Copilot Cowork"
     ],
-    "Leading": "",
+    "Leading": "Yes",
     "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6678/reading-coach#/presenter/0/0",
-    "VideoURL": "",
+    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6669/copilot-cowork#/presenter/0/0",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/copilot-cowork/copilot-cowork.html",
     "VideoReferenceInRegale": "",
     "Languages": [
       "English (US)"
     ],
-    "Duration": "4 min",
-    "Thumbnail": "reading-coach.png",
-    "Summary": "Reading Coach Standalone is an app from Microsoft that can help learners practice and improve their reading fluency.",
+    "Duration": "3 min",
+    "Thumbnail": "copilot-cowork.png",
+    "Summary": "Copilot Cowork can take my well-crafted lesson plan and produce multiple differentiated versions without losing the author's intent or voice.",
     "Personas": [
-      "<b>Students</b>: Understand concepts, practice skills, prepare for tests and exams through a supportive, scaffolded, personalized conversation to arrive at answers, close gaps, learn to identify mistakes, deepen thinking rather than just receive answers. The agent guides learners but does not do the work for them. It fosters thinking and mitigates overreliance on AI.",
-      "<b>Educators</b>: Have peace of mind in knowing that the agent helps learners develop their own understanding and does not do work for the student or just give them answers."
+      "<b>Educator</b>: Turn a single short prompt and a notes file into a parent-ready unit overview. No formatting work. Or generate a full lecture deck from a single short prompt and a notes file. Reference up to five files at once for richer content.",
+      "<b>School Leader</b>: Teachers across the building produce consistent, professional documents with no new software to roll out. In addition, teachers spend less prep time on slide formatting and more time on the lesson. Consistent visual quality across classrooms."
     ],
     "VideoDuration": "",
     "LiveURL": ""
-  },  
+  },
   {
     "Pillar": "Reimagine your school",
     "ID": "299",
@@ -352,7 +394,6 @@
     "VideoDuration": "",
     "LiveURL": ""
   },
-
   {
     "Pillar": "Reimagine your school",
     "ID": "006",
@@ -408,7 +449,6 @@
     "VideoDuration": "",
     "LiveURL": ""
   },
-
   {
     "Pillar": "Inspire student learning",
     "ID": "200",
@@ -437,7 +477,7 @@
     "VideoDuration": "",
     "LiveURL": ""
   },
-    {
+  {
     "Pillar": "Reimagine your school",
     "ID": "003",
     "DemoTitle": "Copilot Studio (Digital Me)",
@@ -464,8 +504,8 @@
     "VideoDuration": "",
     "LiveURL": ""
   },
-    {
-    "Pillar": "Reimagine your school",
+  {
+    "Pillar": "Empower Students",
     "ID": "002",
     "DemoTitle": "Copilot Cowork",
     "DemoShortTitle": "copilot-cowork",
@@ -491,7 +531,7 @@
     "VideoDuration": "",
     "LiveURL": ""
   },
-      {
+  {
     "Pillar": "Reimagine your school",
     "ID": "001",
     "DemoTitle": "Researcher",
@@ -518,5 +558,4 @@
     "VideoDuration": "",
     "LiveURL": ""
   }
-
 ]

@@ -27,29 +27,31 @@
     "LiveURL": ""
   },
   {
-    "Pillar": "Protect what matters",
-    "ID": "302",
-    "DemoTitle": "Windows Defender Antivirus",
-    "DemoShortTitle": "defender-endpoint",
+    "Pillar": "Reimagine your school",
+    "ID": "000",
+    "DemoTitle": "Copilot Cowork",
+    "DemoShortTitle": "copilot-cowork",
     "Products": [
-      "Microsoft Defender",
-      "Microsoft Intune"
+      "Microsoft 365 Copilot",
+      "Copilot Cowork"
     ],
     "Leading": "Yes",
     "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6681/windows-defender-antivirus?cid=edu-iste26#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/windows-defender-antivirus/windows-defender-antivirus.html",
-    "VideoReferenceInRegale": "https://demos.microsoft.com/Microsoft/play/4554?cid=edu-iste26",
+    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6669/copilot-cowork#/presenter/0/0",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/copilot-cowork/copilot-cowork.html",
+    "VideoReferenceInRegale": "",
     "Languages": [
       "English (US)"
     ],
     "Duration": "3 min",
-    "Thumbnail": "defender.png",
-    "Summary": "Defender antivirus is a service that runs on your Windows devices and protects you from malware, spyware, and ransomware.",
+    "Thumbnail": "copilot-cowork.png",
+    "Summary": "Copilot Cowork can take my well-crafted lesson plan and produce multiple differentiated versions without losing the author's intent or voice.",
     "Personas": [
-      "<b>IT Admin</b>: Defender Antivirus provides IT admins with robust protection against malware, spyware, and ransomware.",
-      "<b>School Leader</b>: Defender Antivirus helps school leaders safeguard their institution's data and systems from cyber threats."
-    ]
+      "<b>Educator</b>: Turn a single short prompt and a notes file into a parent-ready unit overview. No formatting work. Or generate a full lecture deck from a single short prompt and a notes file. Reference up to five files at once for richer content.",
+      "<b>School Leader</b>: Teachers across the building produce consistent, professional documents with no new software to roll out. In addition, teachers spend less prep time on slide formatting and more time on the lesson. Consistent visual quality across classrooms."
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
   },
   {
     "Pillar": "Protect what matters",
@@ -178,7 +180,7 @@
   },
   {
     "Pillar": "Reimagine your school",
-    "ID": "002",
+    "ID": "000",
     "DemoTitle": "Copilot Cowork",
     "DemoShortTitle": "copilot-cowork",
     "Products": [

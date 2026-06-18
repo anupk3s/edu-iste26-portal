@@ -120,8 +120,8 @@ input[type="radio"]:checked + label {
 }
 p.demo-desc {
     display: -webkit-box;
-    -webkit-line-clamp: 4;
-    line-clamp: 4;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -681,4 +681,265 @@ input[type="radio"]:checked + label {
 }
 .indented {
     padding-left: 20px;
+}
+
+/* ── Mid width: 1000–1250px ── */
+@media screen and (min-width: 1000px) and (max-width: 1250px) {
+    /* Prevent horizontal scroll at 1000–1023px where body min-width: 1024px still applies */
+    body {
+        min-width: 1000px;
+    }
+
+    /* Narrow sidebar so demo cards get more room */
+    #filter-panel {
+        width: 220px;
+        padding: 12px 0 0 12px;
+    }
+
+    #filter-panel span {
+        width: 200px;
+    }
+
+    #demo-pillar-info {
+        width: 240px;
+        margin-right: 0;
+    }
+
+    /* Smaller cards so two fit per row in the tighter demo area */
+    .demo-card {
+        width: 300px;
+        height: 330px;
+    }
+
+    /* Shrink nav tabs to fit */
+    .top-navigation li {
+        font-size: 16px;
+        min-width: 90px;
+    }
+
+    .homepage .top-navigation li {
+        font-size: 18px;
+    }
+
+    .top-navigation a span {
+        font-size: 10pt;
+    }
+
+    /* Scale down banner text */
+    .home-banner-left .title {
+        font-size: 32px;
+        margin-bottom: 24px;
+    }
+
+    .home-banner-left .subtitle {
+        font-size: 13pt;
+    }
+
+    /* Modal: drop 900px floor — at 1000px viewport 90% already leaves no room */
+    .modal-content {
+        min-width: unset;
+        width: 94%;
+    }
+
+    .demo-right img {
+        min-width: 380px;
+    }
+}
+
+/* ── Mid height: 600–750px ── */
+@media screen and (min-height: 600px) and (max-height: 750px) {
+    /* Banner must not dominate a short viewport */
+    .home-banner {
+        min-height: 300px;
+        height: auto;
+        padding: 20px 0;
+    }
+
+    .home-banner-left .title {
+        font-size: 28px;
+        margin-bottom: 14px;
+    }
+
+    .home-banner-left .subtitle {
+        font-size: 12pt;
+        line-height: 1.3em;
+    }
+
+    .home-banner-left .subtitle p {
+        margin: 4px 0;
+    }
+
+    /* Let homepage scroll rather than clip at short heights */
+    .homepage {
+        height: auto;
+        min-height: 100vh;
+    }
+
+    /* Reduce nav padding so it doesn't push content below the fold */
+    .homepage .top-navigation {
+        padding-top: 10px;
+    }
+
+    /* Modal: no fixed minimum height on short screens */
+    .modal-content {
+        min-height: unset;
+        margin: 2% auto;
+    }
+}
+
+/* ── Small viewport: width < 1000px ── */
+@media screen and (max-width: 999px) {
+    body {
+        min-width: 320px;
+    }
+
+    /* Stack filter panel above demo grid */
+    .container {
+        flex-direction: column;
+        margin: 8px 0 4px 0;
+    }
+
+    #filter-panel {
+        width: auto;
+        padding: 8px 16px 4px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 8px;
+    }
+
+    #filter-panel span {
+        width: auto;
+    }
+
+    #demo-pillar-info {
+        width: auto;
+        margin: 8px 8px 0 8px;
+    }
+
+    #demo-container {
+        padding: 4px 8px 16px;
+    }
+
+    /* Cards fill available width, height auto */
+    .demo-card {
+        width: calc(100% - 36px);
+        height: auto;
+        float: none;
+    }
+
+    .more-link {
+        position: static;
+        margin-top: 8px;
+        top: 130px;
+    }
+
+    p.demo-desc {
+        -webkit-line-clamp: 3;
+        line-clamp: 3;
+    }
+
+    /* Home banner */
+    .home-banner {
+        min-height: 280px;
+        height: auto;
+        padding: 24px 0;
+    }
+
+    .home-banner-left .title {
+        font-size: 26px;
+        margin-bottom: 16px;
+    }
+
+    .home-banner-left .subtitle {
+        font-size: 12pt;
+    }
+
+    .home-overall-message {
+        font-size: 13pt;
+        width: 92%;
+    }
+
+    /* Navigation tabs */
+    .top-navigation li {
+        font-size: 14px;
+        min-width: 72px;
+    }
+
+    .homepage .top-navigation li {
+        font-size: 16px;
+    }
+
+    .top-navigation a span {
+        font-size: 9pt;
+    }
+
+    /* Modal: drop table layout, stack columns */
+    .modal-content {
+        min-width: unset;
+        width: 96%;
+        margin: 2% auto;
+        min-height: unset;
+    }
+
+    #demoDetails,
+    #imageDetails {
+        display: block;
+    }
+
+    .demo-left,
+    .demo-right {
+        display: block;
+        width: 100%;
+        box-sizing: border-box;
+        padding: 10px 12px;
+    }
+
+    .demo-right img {
+        min-width: unset;
+        width: 100%;
+    }
+}
+
+/* ── Short viewport: height < 600px (e.g. landscape phone) ── */
+@media screen and (max-height: 599px) {
+    .home-banner {
+        min-height: unset;
+        height: auto;
+        padding: 16px 0;
+    }
+
+    .home-banner-left .title {
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+
+    .home-banner-left .subtitle {
+        font-size: 10pt;
+    }
+
+    .home-banner-left .subtitle p {
+        margin: 4px 0;
+    }
+
+    /* Shrink top-nav padding on homepage */
+    .homepage .top-navigation {
+        padding-top: 8px;
+    }
+
+    .top-navigation {
+        height: 40px;
+    }
+
+    /* Modal shouldn't need large top margin */
+    .modal-content {
+        margin: 1% auto;
+        min-height: unset;
+    }
+
+    /* Homepage height constraint: allow scroll rather than clipping */
+    .homepage {
+        height: auto;
+        min-height: 100vh;
+    }
 }

@@ -158,8 +158,8 @@
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6691/study-and-learn-agent#/presenter/0/0",
-    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/study-guide/study-guide.html",
+    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6691/study-and-learn-agent?cid=edu-iste26",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/study-and-learn/study-and-learn.html",
     "VideoReferenceInRegale": "",
     "Languages": [
       "English (US)"
@@ -186,7 +186,7 @@
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6677/teach-module-unit-plans#/presenter/0/0",
+    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6677/teach-module-unit-plans?cid=edu-iste26#/presenter/0/0",
     "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/teach-module-unit-plan/teach-module-unit-plan.html",
     "VideoReferenceInRegale": "",
     "Languages": [
@@ -212,7 +212,7 @@
     ],
     "Leading": "No",
     "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6692/microsoft-365-lti#/presenter/0/0",
+    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6692/microsoft-365-lti?cid=edu-iste26#/presenter/0/0",
     "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/m365-lti/m365-lti.html",
     "VideoReferenceInRegale": "https://www.demos.microsoft.com/Microsoft/play/4921?cid=edu-fp",
     "Languages": [
@@ -241,7 +241,7 @@
     ],
     "Leading": "Yes",
     "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6693/powerpoint-agent-and-word-agent-in-copilot-chat#/presenter/0/0",
+    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6693/powerpoint-agent-and-word-agent-in-copilot-chat?cid=edu-iste26#/presenter/0/0",
     "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/powerpoint-and-word-agent/powerpoint-and-word-agent.html",
     "VideoReferenceInRegale": "https://demos.microsoft.com/Microsoft/play/4556?cid=edu-fp",
     "Languages": [
@@ -268,7 +268,7 @@
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6676/learning-activities-flashcards#/presenter/0/0",
+    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6676/learning-activities-flashcards?cid=edu-iste26#/presenter/0/0",
     "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/learning-activities-flashcards/learning-activities-flashcards.html",
     "VideoReferenceInRegale": "",
     "Languages": [
@@ -295,7 +295,7 @@
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6680/learning-activities-matching#/presenter/0/0",
+    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6680/learning-activities-matching?cid=edu-iste26#/presenter/0/0",
     "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/learning-activities-matching/learning-activities-matching.html",
     "VideoReferenceInRegale": "",
     "Languages": [
@@ -323,7 +323,7 @@
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6689/teach-module-lesson-plans#/presenter/0/0",
+    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6689/teach-module-lesson-plans?cid=edu-iste26#/presenter/0/0",
     "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/teach-module-lesson-plan/teach-module-lesson-plan.html",
     "VideoReferenceInRegale": "",
     "Languages": [
@@ -351,7 +351,7 @@
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6687/teach-module-minecraft-lesson-plans#/presenter/0/0",
+    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6687/teach-module-minecraft-lesson-plans?cid=edu-iste26#/presenter/0/0",
     "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/teach-module-minecraft/teach-module-minecraft.html",
     "VideoReferenceInRegale": "",
     "Languages": [
@@ -378,7 +378,7 @@
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6688/learning-zone#/presenter/0/0",
+    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6688/learning-zone?cid=edu-iste26#/presenter/0/0",
     "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/learning-zone/learning-zone.html",
     "VideoReferenceInRegale": "",
     "Languages": [
@@ -405,7 +405,7 @@
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6674/learning-activities-fill-in-the-blanks#/presenter/0/0",
+    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6674/learning-activities-fill-in-the-blanks?cid=edu-iste26#/presenter/0/0",
     "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/learning-activities-fill-in-the-blanks/learning-activities-fill-in-the-blanks.html",
     "VideoReferenceInRegale": "",
     "Languages": [
@@ -433,7 +433,7 @@
     ],
     "Leading": "",
     "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6675/study-guide#/presenter/0/0",
+    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6675/study-guide?cid=edu-iste26#/presenter/0/0",
     "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/study-guide/study-guide.html",
     "VideoReferenceInRegale": "",
     "Languages": [
@@ -461,7 +461,7 @@
     ],
     "Leading": "Yes",
     "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6664/copilot-studio#/presenter/0/0",
+    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6664/copilot-studio?cid=edu-iste26#/presenter/0/0",
     "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/copilot-studio/copilot-studio.html",
     "VideoReferenceInRegale": "",
     "Languages": [
@@ -488,8 +488,8 @@
     ],
     "Leading": "Yes",
     "Hero": "Yes",
-    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6690/researcher#/presenter/0/0",
-    "VideoURL": "",
+    "ClickthroughURL": "https://demos.microsoft.com/microsoft/play/6690/researcher?cid=edu-iste26#/presenter/0/0",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/researcher/researcher.html",
     "VideoReferenceInRegale": "",
     "Languages": [
       "English (US)"

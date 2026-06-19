@@ -43,7 +43,7 @@ function displayImageInModal(imageSrc, altText) {
 }
 
 function searchDemoItem(demoId) {
-    //Set query string parameter, then find it based on selected demo Id
+    trackEvent('demo_open', { demoId: demoId, page: window.location.pathname });
     const url = new URL(window.location.href);
     url.searchParams.set('did', demoId);
     window.history.pushState({}, '', url);
@@ -98,6 +98,8 @@ function getDemoItemFromUrl() {
     }
 }
 function renderVideo(location, referenceUrl) {
+    const playingDemoId = getQueryParameter('did') || '';
+    trackEvent('video_play', { demoId: playingDemoId, videoUrl: location, page: window.location.pathname });
     videoRoot = location.substr(0, location.lastIndexOf("/"));
     videoName = videoRoot.split("/")[videoRoot.split("/").length-1];
     videoLink = videoRoot + "/" + videoName;
@@ -140,6 +142,7 @@ async function handleFilterChange() {
     const product = document.querySelector('input[name="product"]:checked').value;
     const pillar = document.querySelector('input[name="pillar"]:checked').value;
     const language = document.querySelector('input[name="language"]:checked').value;
+    trackEvent('filter_change', { product: product, pillar: pillar, language: language, page: window.location.pathname });
     const demos = await fetchDemos();
     const filteredDemos = filterDemos(demos, product, pillar, language);
     displayDemos(filteredDemos);

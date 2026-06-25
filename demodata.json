@@ -148,6 +148,59 @@
                     "<b>School Leader</b>: Web Content Filtering helps school leaders maintain a secure online environment by preventing access to inappropriate or harmful websites, protecting students and staff."]
     },
 
+    {
+    "Pillar": "Inspire student learning",
+    "ID": "312",
+    "DemoTitle": "Reading Coach",
+    "DemoShortTitle": "reading-coach",
+    "Products": [
+      "Microsoft Reading Coach"
+    ],
+    "Leading": "",
+    "Hero": "Yes",
+    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6678/reading-coach?cid=edu-iste26",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/reading-coach-standaline/reading-coach-standaline.html",
+    "VideoReferenceInRegale": "",
+    "Languages": [
+      "English (US)"
+    ],
+    "Duration": "4 min",
+    "Thumbnail": "section-1.webp",
+    "Summary": "Reading Coach provides personalized, engaging, consistent and moderated reading fluency practice. It uses artificial intelligence to personalize reading content and detect fluency, while ensuring a safe and trusted experience.",
+    "Personas": [
+      "<b>Learner</b>: Independent, engaging, personalized reading practice and coaching. Learners can create their own AI stories, read library passages, or add their own content, get rewards, streaks, and progress tracking.",
+      "<b>Educator</b>: Situate reading practice for learners, and see progress for individual learners.",
+      "<b>School Leader</b>: No cost reading practice app in multiple languages for use at school and home, get data across the tenant and build custom dashboards."
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
+  },{
+    "Pillar": "Inspire student learning",
+    "ID": "309",
+    "DemoTitle": "Study and Learn Agent",
+    "DemoShortTitle": "study-and-learn",
+    "Products": [
+      "Microsoft Reading Coach"
+    ],
+    "Leading": "",
+    "Hero": "Yes",
+    "ClickthroughURL": "https://demos.microsoft.com/Microsoft/play/6691/study-and-learn-agent?cid=edu-iste26",
+    "VideoURL": "https://simdemo.azureedge.net/edu/portal/videos/study-and-learn/study-and-learn.html",
+    "VideoReferenceInRegale": "",
+    "Languages": [
+      "English (US)"
+    ],
+    "Duration": "4 min",
+    "Thumbnail": "section-1.webp",
+    "Summary": "Copilot Notebooks in Microsoft 365 Copilot is your AI-powered workspace to stay focused on what matters most. Bring together Copilot chats, Microsoft 365 files, OneNote pages, meeting notes, and links—all in one place.",
+    "Personas": [
+      "<b>Students</b>: Understand concepts, practice skills, prepare for tests and exams through a supportive, scaffolded, personalized conversation to arrive at answers, close gaps, learn to identify mistakes, deepen thinking rather than just receive answers. The agent guides learners but does not do the work for them. It fosters thinking and mitigates overreliance on AI.",
+      "<b>Educators</b>: Have peace of mind in knowing that the agent helps learners develop their own understanding and does not do work for the student or just give them answers.",
+      "<b>School Leader</b>: Can count on a safe, responsible AI-powered agent that respects the highest standards of privacy and security. Bring 24x7 tutoring support to students at no additional cost."
+    ],
+    "VideoDuration": "",
+    "LiveURL": ""
+  },
   {
     "Pillar": "Inspire student learning",
     "ID": "309",
